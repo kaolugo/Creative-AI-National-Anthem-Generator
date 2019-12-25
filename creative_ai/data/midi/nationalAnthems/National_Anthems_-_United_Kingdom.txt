@@ -1,0 +1,785 @@
+format=1 tracks=13 division=192
+
+BA    1   CR         0   TR  0   CH 16   Time signature 3/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Tempo 87.6001
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR  1   CH 16   Text type 3: "trumpet             "
+BA    1   CR         0   TR  1   CH  2   Instrument 57
+BA    1   CR         0   TR  1   CH  2   Channel volume 90
+BA    1   CR         0   TR  1   CH  2   ST &B1 &0A &39
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR  2   CH 16   Text type 3: "tuba                "
+BA    1   CR         0   TR  2   CH  3   Instrument 59
+BA    1   CR         0   TR  2   CH  3   Channel volume 85
+BA    1   CR         0   TR  2   CH  3   ST &B2 &0A &33
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR  3   CH 16   Text type 3: "french horn         "
+BA    1   CR         0   TR  3   CH  4   Instrument 61
+BA    1   CR         0   TR  3   CH  4   Channel volume 76
+BA    1   CR         0   TR  3   CH  4   ST &B3 &0A &4F
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR  4   CH 16   Text type 3: "trumpet2            "
+BA    1   CR         0   TR  4   CH  5   Instrument 61
+BA    1   CR         0   TR  4   CH  5   Channel volume 90
+BA    1   CR         0   TR  4   CH  5   ST &B4 &0A &45
+BA    1   CR         0   TR  4   CH  5   NT  D-          41/48   von=105
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR  5   CH 16   Text type 3: "trumpet3            "
+BA    1   CR         0   TR  5   CH  6   Instrument 57
+BA    1   CR         0   TR  5   CH  6   Channel volume 90
+BA    1   CR         0   TR  5   CH  6   ST &B5 &0A &52
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR  6   CH 16   Text type 3: "cymbals             "
+BA    1   CR         0   TR  6   CH 10   Channel volume 64
+BA    1   CR         0   TR  6   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR  7   CH 16   Text type 3: "tympani             "
+BA    1   CR         0   TR  7   CH 12   Instrument 48
+BA    1   CR         0   TR  7   CH 12   Channel volume 100
+BA    1   CR         0   TR  7   CH 12   ST &BB &0A &40
+BA    1   CR         0   TR  8   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR  8   CH 16   Text type 3: "harp                "
+BA    1   CR         0   TR  8   CH 13   Instrument 47
+BA    1   CR         0   TR  8   CH 13   Channel volume 57
+BA    1   CR         0   TR  9   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR  9   CH 16   Text type 3: "fast strings (bass) "
+BA    1   CR         0   TR  9   CH  7   Instrument 49
+BA    1   CR         0   TR  9   CH  7   Channel volume 100
+BA    1   CR         0   TR  9   CH  7   ST &B6 &0A &41
+BA    1   CR         0   TR  9   CH  7   NT  G--        1+1/64   von=127
+BA    1   CR         0   TR 10   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR 10   CH 16   Text type 3: "strings (melody)    "
+BA    1   CR         0   TR 10   CH  8   Instrument 49
+BA    1   CR         0   TR 10   CH  8   Channel volume 100
+BA    1   CR         0   TR 10   CH  8   ST &B7 &0A &45
+BA    1   CR         0   TR 11   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR 11   CH 16   Text type 3: "strings (alto)      "
+BA    1   CR         0   TR 11   CH  9   Instrument 50
+BA    1   CR         0   TR 11   CH  9   Channel volume 100
+BA    1   CR         0   TR 11   CH  9   ST &B8 &0A &34
+BA    1   CR         0   TR 11   CH  9   NT  D           11/12   von=127
+BA    1   CR         0   TR 12   CH 16   Meta Event   type &21   2
+BA    1   CR         0   TR 12   CH 16   Text type 3: "piccolo             "
+BA    1   CR         0   TR 12   CH 11   Instrument 73
+BA    1   CR         0   TR 12   CH 11   Channel volume 80
+BA    1   CR         0   TR 12   CH 11   ST &BA &0A &3A
+BA    1   CR     1/192   TR  2   CH  3   NT  G--      1+11/192   von=127
+BA    1   CR     1/192   TR  3   CH  4   NT  B--         29/32   von=127
+BA    1   CR     1/192   TR 10   CH  8   NT  G           59/64   von=127
+BA    1   CR      1/96   TR  1   CH  2   NT  G           43/48   von=127
+BA    1   CR       1/4   TR  1   CH  2   ST &B1 &5B &7F
+BA    1   CR       1/4   TR  1   CH  2   ST &B1 &5D &00
+BA    1   CR       1/4   TR  4   CH  5   ST &B4 &5D &00
+BA    1   CR       1/4   TR  4   CH  5   ST &B4 &5B &7F
+BA    1   CR       1/4   TR  9   CH  7   ST &B6 &5B &60
+BA    1   CR       1/4   TR 10   CH  8   ST &B7 &5B &7F
+BA    1   CR       1/2   TR  2   CH  3   ST &B2 &5D &00
+BA    1   CR       1/2   TR  2   CH  3   ST &B2 &5B &7F
+BA    1   CR       3/4   TR  3   CH  4   ST &B3 &5B &7F
+BA    1   CR       3/4   TR  3   CH  4   ST &B3 &5D &00
+BA    1   CR       3/4   TR 11   CH  9   ST &B8 &5B &7F
+BA    1   CR     95/96   TR  9   CH  7   NT  B---        91/96
+BA    1   CR   1+1/192   TR  4   CH  5   NT  D-          91/96   von=109
+BA    1   CR   1+1/192   TR 10   CH  8   NT  G          1+5/96
+BA    1   CR    1+1/48   TR  3   CH  4   NT  B--         11/12
+BA    1   CR   1+5/192   TR 11   CH  9   NT  D        1+13/192
+BA    1   CR    1+1/32   TR  2   CH  3   NT  B---        79/96
+BA    1   CR    1+3/64   TR  1   CH  2   NT  G         151/192
+BA    1   CR     1+1/4   TR  5   CH  6   ST &B5 &5B &7F
+BA    1   CR   1+63/64   TR  2   CH  3   NT  C--         11/12
+BA    1   CR         2   TR  9   CH  7   NT  C--         91/96
+BA    1   CR   2+1/192   TR 10   CH  8   NT  A          1+5/64
+BA    1   CR    2+1/96   TR  3   CH  4   NT  C-        185/192
+BA    1   CR   2+5/192   TR  1   CH  2   NT  A           53/64
+BA    1   CR    2+1/32   TR  4   CH  5   NT  E-          29/32   von=107
+BA    1   CR    2+1/32   TR 11   CH  9   NT  E          1+1/96
+BA    1   CR   2+63/64   TR  2   CH  3   NT  D--      1+79/192
+
+BA    2   CR         0   TR  1   CH  2   NT  F#        1+15/32
+BA    2   CR      1/96   TR  3   CH  4   NT  A--       1+19/64
+BA    2   CR      1/96   TR  4   CH  5   NT  D-        1+11/32   von=115
+BA    2   CR      1/96   TR 10   CH  8   NT  F#       1+97/192
+BA    2   CR      1/48   TR 11   CH  9   NT  D         1+55/96
+BA    2   CR      1/24   TR  9   CH  7   NT  D--      1+77/192
+BA    2   CR   1+11/24   TR  0   CH 16   Tempo 87.8
+BA    2   CR   1+15/32   TR  2   CH  3   NT  E--         35/64
+BA    2   CR   1+47/96   TR  3   CH  4   NT  G--         41/96
+BA    2   CR   1+47/96   TR 10   CH  8   NT  G           59/96
+BA    2   CR     1+1/2   TR  4   CH  5   NT  C#-         41/96
+BA    2   CR   1+49/96   TR  1   CH  2   NT  G           29/64
+BA    2   CR   1+25/48   TR  9   CH  7   NT  E--         29/64
+BA    2   CR 1+101/192   TR 11   CH  9   NT  C#          29/64
+BA    2   CR     1+5/8   TR  0   CH 16   Tempo 87.6001
+BA    2   CR     1+2/3   TR  0   CH 16   Tempo 87.5
+BA    2   CR     1+3/4   TR  0   CH 16   Tempo 87.4001
+BA    2   CR     1+5/6   TR  0   CH 16   Tempo 87.2
+BA    2   CR   1+23/24   TR  0   CH 16   Tempo 87.1
+BA    2   CR 1+187/192   TR  3   CH  4   NT  A--       1+5/192
+BA    2   CR         2   TR  0   CH 16   Tempo 86.9001
+BA    2   CR         2   TR  2   CH  3   NT  F#--        91/96
+BA    2   CR   2+1/192   TR  4   CH  5   NT  D-          43/48   von=114
+BA    2   CR    2+1/96   TR 10   CH  8   NT  A           23/24
+BA    2   CR    2+1/96   TR 11   CH  9   NT  D         161/192
+BA    2   CR   2+5/192   TR  1   CH  2   NT  A           77/96
+BA    2   CR    2+1/24   TR  9   CH  7   NT  F#--        43/48
+BA    2   CR    2+1/12   TR  0   CH 16   Tempo 86.8
+BA    2   CR     2+1/8   TR  0   CH 16   Tempo 86.7001
+BA    2   CR     2+1/6   TR  0   CH 16   Tempo 86.6001
+BA    2   CR     2+1/4   TR  0   CH 16   Tempo 86.5001
+BA    2   CR     2+1/3   TR  0   CH 16   Tempo 86.3
+BA    2   CR   2+11/24   TR  0   CH 16   Tempo 86.2001
+BA    2   CR     2+1/2   TR  0   CH 16   Tempo 86.1
+BA    2   CR     2+3/4   TR  0   CH 16   Tempo 86
+BA    2   CR   2+19/24   TR  0   CH 16   Tempo 85.9001
+BA    2   CR   2+23/24   TR  7   CH 12   ST &BB &5B &7F
+BA    2   CR   2+23/24   TR 12   CH 11   ST &BA &5B &7F
+BA    2   CR   2+47/48   TR  2   CH  3   NT  G--       1+5/192
+BA    2   CR   2+95/96   TR 10   CH  8   NT  B           91/96
+BA    2   CR   2+95/96   TR 11   CH  9   NT  D        1+23/192
+
+BA    3   CR         0   TR  1   CH  2   NT  B         169/192
+BA    3   CR         0   TR  3   CH  4   NT  D-          29/32
+BA    3   CR     1/192   TR  4   CH  5   NT  G-          41/48   von=118
+BA    3   CR      1/64   TR  9   CH  7   NT  G--       187/192
+BA    3   CR      1/24   TR  0   CH 16   Tempo 85.8001
+BA    3   CR     63/64   TR  3   CH  4   NT  E-        167/192
+BA    3   CR     95/96   TR  2   CH  3   NT  E--         91/96
+BA    3   CR         1   TR  1   CH  2   NT  B           59/64
+BA    3   CR         1   TR 10   CH  8   NT  B               1
+BA    3   CR   1+1/192   TR  4   CH  5   NT  G-          15/16   von=121
+BA    3   CR   1+1/192   TR 11   CH  9   NT  G           27/32
+BA    3   CR    1+1/64   TR  9   CH  7   NT  E--       179/192
+BA    3   CR   1+47/48   TR  2   CH  3   NT  C--         59/64
+BA    3   CR   1+47/48   TR 10   CH  8   NT  C'         1+5/48
+BA    3   CR   1+63/64   TR  3   CH  4   NT  E-         1+1/64
+BA    3   CR   1+63/64   TR 11   CH  9   NT  G           83/96
+BA    3   CR   1+95/96   TR  9   CH  7   NT  C--         59/64
+BA    3   CR         2   TR  4   CH  5   NT  A-         1+1/96   von=111
+BA    3   CR   2+1/192   TR  1   CH  2   NT  C'          83/96
+BA    3   CR   2+47/48   TR  2   CH  3   NT  D--       1+49/96
+BA    3   CR   2+47/48   TR 11   CH  9   NT  G         1+15/32
+BA    3   CR 2+191/192   TR  3   CH  4   NT  D-        1+29/64
+
+BA    4   CR         0   TR  1   CH  2   NT  B        1+79/192
+BA    4   CR         0   TR  9   CH  7   NT  D--       1+25/64
+BA    4   CR     1/192   TR 10   CH  8   NT  B         1+25/48
+BA    4   CR      1/48   TR  4   CH  5   NT  G-       1+97/192   von=118
+BA    4   CR     13/24   TR  0   CH 16   Tempo 85.9001
+BA    4   CR     17/24   TR  0   CH 16   Tempo 86
+BA    4   CR     23/24   TR  0   CH 16   Tempo 86.1
+BA    4   CR     1+1/8   TR  0   CH 16   Tempo 86.2001
+BA    4   CR    1+7/24   TR  0   CH 16   Tempo 86.3
+BA    4   CR    1+5/12   TR  9   CH  7   NT  Eb--       97/192
+BA    4   CR   1+43/96   TR 11   CH  9   NT  F#          41/64
+BA    4   CR   1+15/32   TR  2   CH  3   NT  Eb--      113/192
+BA    4   CR  1+95/192   TR 10   CH  8   NT  A         103/192
+BA    4   CR   1+49/96   TR  1   CH  2   NT  A           37/96
+BA    4   CR   1+33/64   TR  3   CH  4   NT  C-            1/3
+BA    4   CR 1+101/192   TR  4   CH  5   NT  F#-         31/64   von=108
+BA    4   CR     1+5/8   TR  0   CH 16   Tempo 86.5001
+BA    4   CR   1+19/24   TR  0   CH 16   Tempo 86.6001
+BA    4   CR   1+23/24   TR  0   CH 16   Tempo 86.7001
+BA    4   CR 1+185/192   TR  9   CH  7   NT  E--         23/24
+BA    4   CR   1+47/48   TR  3   CH  4   NT  B--        1+1/24
+BA    4   CR   1+95/96   TR  2   CH  3   NT  E--         95/96
+BA    4   CR   1+95/96   TR 10   CH  8   NT  G          1+5/96   von=125
+BA    4   CR         2   TR 11   CH  9   NT  E           83/96
+BA    4   CR    2+1/96   TR  1   CH  2   NT  G           41/48
+BA    4   CR    2+5/96   TR  4   CH  5   NT  E-          35/64   von=115
+BA    4   CR    2+1/12   TR  0   CH 16   Tempo 86.8
+BA    4   CR     2+1/6   TR  0   CH 16   Tempo 86.9001
+BA    4   CR    2+5/24   TR  0   CH 16   Tempo 87
+BA    4   CR    2+7/24   TR  0   CH 16   Tempo 87.1
+BA    4   CR    2+5/12   TR  0   CH 16   Tempo 86.9001
+BA    4   CR   2+11/24   TR  0   CH 16   Tempo 86.7001
+BA    4   CR   2+13/24   TR  0   CH 16   Tempo 86.5001
+BA    4   CR     2+5/8   TR  0   CH 16   Tempo 86.3
+BA    4   CR   2+17/24   TR  0   CH 16   Tempo 86.2001
+BA    4   CR   2+23/24   TR  0   CH 16   Tempo 86
+BA    4   CR   2+63/64   TR 10   CH  8   NT  A        1+17/192   von=127
+BA    4   CR   2+63/64   TR 11   CH  9   NT  E         1+5/192
+
+BA    5   CR         0   TR  4   CH  5   NT  E-          63/64   von=109
+BA    5   CR         0   TR  9   CH  7   NT  C--         95/96
+BA    5   CR     1/192   TR  2   CH  3   NT  C--        1+1/96
+BA    5   CR      1/96   TR  1   CH  2   NT  A         169/192
+BA    5   CR      1/48   TR  3   CH  4   NT  C-              1
+BA    5   CR      1/24   TR  0   CH 16   Tempo 85.8001
+BA    5   CR       1/8   TR  0   CH 16   Tempo 85.6001
+BA    5   CR      5/24   TR  0   CH 16   Tempo 85.4
+BA    5   CR       1/4   TR  0   CH 16   Tempo 85.3001
+BA    5   CR       1/3   TR  0   CH 16   Tempo 85.1001
+BA    5   CR      5/12   TR  0   CH 16   Tempo 85
+BA    5   CR       1/2   TR  0   CH 16   Tempo 84.8
+BA    5   CR       3/4   TR  0   CH 16   Tempo 84.6001
+BA    5   CR       5/6   TR  0   CH 16   Tempo 84.0001
+BA    5   CR     63/64   TR 11   CH  9   NT  D         169/192
+BA    5   CR     95/96   TR  9   CH  7   NT  D--         57/64
+BA    5   CR   191/192   TR  3   CH  4   NT  B--         29/32
+BA    5   CR         1   TR  1   CH  2   NT  G           43/48
+BA    5   CR         1   TR  2   CH  3   NT  D--       169/192
+BA    5   CR         1   TR  4   CH  5   NT  D-        161/192   von=105
+BA    5   CR         1   TR 10   CH  8   NT  G          1+5/64
+BA    5   CR    1+1/12   TR  0   CH 16   Tempo 83.8
+BA    5   CR     1+1/6   TR  0   CH 16   Tempo 83.2001
+BA    5   CR     1+1/4   TR  0   CH 16   Tempo 83.0001
+BA    5   CR     1+1/2   TR  0   CH 16   Tempo 82.8001
+BA    5   CR   1+13/24   TR  0   CH 16   Tempo 82.2
+BA    5   CR   1+19/24   TR  0   CH 16   Tempo 82
+BA    5   CR     1+5/6   TR  0   CH 16   Tempo 81.8
+BA    5   CR   1+95/96   TR 11   CH  9   NT  D         169/192
+BA    5   CR 1+191/192   TR  3   CH  4   NT  A--        1+1/96
+BA    5   CR         2   TR  1   CH  2   NT  F#        169/192
+BA    5   CR         2   TR  9   CH  7   NT  D--        1+1/96
+BA    5   CR   2+1/192   TR  2   CH  3   NT  D--        1+1/96
+BA    5   CR   2+1/192   TR 10   CH  8   NT  F#          95/96
+BA    5   CR    2+1/96   TR  4   CH  5   NT  D-        169/192   von=113
+BA    5   CR    2+1/12   TR  0   CH 16   Tempo 81.6
+BA    5   CR     2+1/8   TR  0   CH 16   Tempo 81.4001
+BA    5   CR    2+5/24   TR  0   CH 16   Tempo 81.2
+BA    5   CR    2+7/24   TR  0   CH 16   Tempo 81.1
+BA    5   CR     2+1/3   TR  0   CH 16   Tempo 80.9
+BA    5   CR    2+7/12   TR  0   CH 16   Tempo 80.8
+BA    5   CR     2+5/6   TR  0   CH 16   Tempo 80.6001
+BA    5   CR   2+11/12   TR  0   CH 16   Tempo 80.5001
+BA    5   CR   2+95/96   TR 10   CH  8   NT  G            1/64   von=112
+
+BA    6   CR         0   TR  0   CH 16   Tempo 80.4001
+BA    6   CR      1/96   TR  1   CH  2   NT  G       2+131/192
+BA    6   CR      1/96   TR  2   CH  3   NT  G--       2+21/32
+BA    6   CR      1/96   TR  3   CH  4   NT  B--         2+2/3
+BA    6   CR      1/96   TR  9   CH  7   NT  G--      2+97/192
+BA    6   CR      1/96   TR 10   CH  8   NT  G           51/64   von=127
+BA    6   CR      1/96   TR 11   CH  9   NT  D           91/96
+BA    6   CR      1/32   TR  4   CH  5   NT  D-        2+29/48   von=105
+BA    6   CR      1/12   TR  0   CH 16   Tempo 80.2001
+BA    6   CR       1/3   TR  0   CH 16   Tempo 80.1001
+BA    6   CR       3/8   TR  0   CH 16   Tempo 80
+BA    6   CR       5/8   TR  0   CH 16   Tempo 79.8001
+BA    6   CR     11/12   TR  0   CH 16   Tempo 79.7
+BA    6   CR     47/48   TR 10   CH  8   NT  G             5/8
+BA    6   CR     63/64   TR 11   CH  9   NT  B-        113/192
+BA    6   CR     1+1/6   TR  0   CH 16   Tempo 79.6001
+BA    6   CR   1+31/64   TR 11   CH  9   NT  D         125/192
+BA    6   CR   1+47/96   TR 10   CH  8   NT  A         107/192
+BA    6   CR  1+97/192   TR  7   CH 12   NT  G--          5/96   von=89
+BA    6   CR     1+5/8   TR  0   CH 16   Tempo 79.5001
+BA    6   CR 1+133/192   TR  7   CH 12   NT  G--          3/32   von=127
+BA    6   CR   1+83/96   TR  7   CH 12   NT  G--          3/32   von=115
+BA    6   CR   1+95/96   TR 11   CH  9   NT  G           31/64
+BA    6   CR         2   TR 10   CH  8   NT  B           25/48
+BA    6   CR    2+1/96   TR  7   CH 12   NT  G--          1/12   von=127
+BA    6   CR   2+11/64   TR  7   CH 12   NT  G--          5/64
+BA    6   CR  2+59/192   TR  7   CH 12   NT  G--        17/192
+BA    6   CR    2+7/16   TR  7   CH 12   NT  G--          7/64
+BA    6   CR   2+47/96   TR 11   CH  9   NT  A           25/48
+BA    6   CR     2+1/2   TR  0   CH 16   Tempo 79.6001
+BA    6   CR     2+1/2   TR 10   CH  8   NT  C'          35/64
+BA    6   CR    2+7/12   TR  7   CH 12   NT  G--          7/64
+BA    6   CR     2+5/8   TR  0   CH 16   Tempo 79.7
+BA    6   CR     2+2/3   TR  0   CH 16   Tempo 79.8001
+BA    6   CR   2+17/24   TR  0   CH 16   Tempo 79.9001
+BA    6   CR 2+143/192   TR  7   CH 12   NT  G--         13/96
+BA    6   CR     2+3/4   TR  0   CH 16   Tempo 80
+BA    6   CR   2+19/24   TR  0   CH 16   Tempo 80.1001
+BA    6   CR     2+5/6   TR  0   CH 16   Tempo 80.3
+BA    6   CR     2+7/8   TR  0   CH 16   Tempo 80.4001
+BA    6   CR 2+179/192   TR  5   CH  6   NT  B-          91/96   von=121
+BA    6   CR   2+23/24   TR  0   CH 16   Tempo 80.5001
+BA    6   CR   2+31/32   TR  9   CH  7   NT  G---        95/96
+BA    6   CR 2+187/192   TR  7   CH 12   NT  G--         2+2/3
+BA    6   CR   2+95/96   TR  2   CH  3   NT  G---      185/192
+
+BA    7   CR         0   TR  0   CH 16   Tempo 80.7
+BA    7   CR     1/192   TR  4   CH  5   NT  G-        169/192   von=119
+BA    7   CR      1/96   TR  1   CH  2   NT  D'          43/48
+BA    7   CR      1/96   TR 10   CH  8   NT  D'          51/64
+BA    7   CR     7/192   TR  6   CH 10   NT  A-         13/192   von=127
+BA    7   CR      3/64   TR 11   CH  9   NT  B           53/64
+BA    7   CR      5/96   TR  3   CH  4   NT  D-          73/96
+BA    7   CR      1/12   TR  0   CH 16   Tempo 80.8
+BA    7   CR      5/48   TR 12   CH 11   NT  D'''         3/16   von=86
+BA    7   CR       1/8   TR  0   CH 16   Tempo 80.9
+BA    7   CR       1/6   TR  0   CH 16   Tempo 81.1
+BA    7   CR       1/4   TR  0   CH 16   Tempo 81.2
+BA    7   CR    49/192   TR 12   CH 11   NT  E'''       25/192   von=83
+BA    7   CR      7/24   TR  0   CH 16   Tempo 81.4001
+BA    7   CR     23/64   TR 12   CH 11   NT  D'''       31/192   von=66
+BA    7   CR       3/8   TR  0   CH 16   Tempo 81.6
+BA    7   CR      5/12   TR  0   CH 16   Tempo 81.7
+BA    7   CR     11/24   TR  0   CH 16   Tempo 82.3
+BA    7   CR     23/48   TR 12   CH 11   NT  E'''        13/96   von=80
+BA    7   CR       1/2   TR  0   CH 16   Tempo 82.9001
+BA    7   CR      7/12   TR  0   CH 16   Tempo 83.6
+BA    7   CR   115/192   TR 12   CH 11   NT  D'''       31/192   von=62
+BA    7   CR       5/8   TR  0   CH 16   Tempo 83.7001
+BA    7   CR     17/24   TR  0   CH 16   Tempo 84.1
+BA    7   CR     23/32   TR 12   CH 11   NT  E'''        13/96   von=78
+BA    7   CR       3/4   TR  0   CH 16   Tempo 84.3001
+BA    7   CR     19/24   TR  0   CH 16   Tempo 84.4
+BA    7   CR     53/64   TR 12   CH 11   NT  D'''      1+23/64   von=60
+BA    7   CR       7/8   TR  0   CH 16   Tempo 84.6001
+BA    7   CR     11/12   TR  0   CH 16   Tempo 84.0001
+BA    7   CR     91/96   TR 12   CH 11   NT  E'''       25/192   von=71
+BA    7   CR     31/32   TR 10   CH  8   NT  D'        185/192
+BA    7   CR     63/64   TR  9   CH  7   NT  B---      187/192
+BA    7   CR     95/96   TR  2   CH  3   NT  B---        91/96
+BA    7   CR         1   TR  0   CH 16   Tempo 84.1
+BA    7   CR    1+1/96   TR 11   CH  9   NT  B           43/48
+BA    7   CR    1+1/64   TR  3   CH  4   NT  D-          13/16
+BA    7   CR    1+1/64   TR  4   CH  5   NT  G-          41/48   von=114
+BA    7   CR    1+1/48   TR  1   CH  2   NT  D'          83/96
+BA    7   CR   1+5/192   TR  5   CH  6   NT  B-        169/192   von=125
+BA    7   CR    1+1/24   TR  0   CH 16   Tempo 84.2
+BA    7   CR    1+1/12   TR  0   CH 16   Tempo 84.4
+BA    7   CR     1+1/6   TR  0   CH 16   Tempo 84.5
+BA    7   CR   1+19/96   TR 12   CH 11   NT  E'''         7/64   von=67
+BA    7   CR     1+1/4   TR  0   CH 16   Tempo 84.7001
+BA    7   CR  1+79/192   TR 12   CH 11   NT  E'''       29/192   von=69
+BA    7   CR     1+1/2   TR  0   CH 16   Tempo 84.8
+BA    7   CR 1+125/192   TR 12   CH 11   NT  E'''        13/96   von=70
+BA    7   CR     1+3/4   TR  0   CH 16   Tempo 85
+BA    7   CR     1+5/6   TR  0   CH 16   Tempo 85.1001
+BA    7   CR   1+43/48   TR 12   CH 11   NT  E'''         7/48   von=66
+BA    7   CR   1+11/12   TR  0   CH 16   Tempo 85.3001
+BA    7   CR   1+23/24   TR  9   CH  7   NT  D--        1+5/96
+BA    7   CR   1+95/96   TR 10   CH  8   NT  D'        169/192
+BA    7   CR         2   TR  2   CH  3   NT  D--        1+1/24
+BA    7   CR    2+1/96   TR  1   CH  2   NT  D'          41/48
+BA    7   CR    2+1/64   TR  3   CH  4   NT  D-          77/96
+BA    7   CR    2+1/64   TR  4   CH  5   NT  G-        151/192
+BA    7   CR    2+1/64   TR  5   CH  6   NT  B-        143/192   von=103
+BA    7   CR    2+1/48   TR 11   CH  9   NT  B           29/32
+BA    7   CR   2+13/96   TR 12   CH 11   NT  E'''         7/48   von=68
+BA    7   CR     2+1/6   TR  0   CH 16   Tempo 85.4
+BA    7   CR  2+49/192   TR 12   CH 11   NT  D'''      1+19/48   von=55
+BA    7   CR  2+67/192   TR 12   CH 11   NT  E'''         7/48   von=72
+BA    7   CR    2+5/12   TR  0   CH 16   Tempo 85.6001
+BA    7   CR 2+115/192   TR 12   CH 11   NT  E'''         7/64   von=66
+BA    7   CR     2+3/4   TR  0   CH 16   Tempo 85.7001
+BA    7   CR   2+77/96   TR 12   CH 11   NT  E'''       25/192   von=70
+BA    7   CR 2+187/192   TR 10   CH  8   NT  D'         1+7/12
+
+BA    8   CR         0   TR  0   CH 16   Tempo 85.9001
+BA    8   CR     1/192   TR  1   CH  2   NT  D'        1+41/96
+BA    8   CR     1/192   TR  2   CH  3   NT  G--      1+89/192
+BA    8   CR     1/192   TR  3   CH  4   NT  D-        1+37/96
+BA    8   CR     1/192   TR  4   CH  5   NT  G-       1+85/192
+BA    8   CR      1/96   TR  9   CH  7   NT  G--       1+23/48
+BA    8   CR      1/64   TR  5   CH  6   NT  B-       1+89/192   von=121
+BA    8   CR     5/192   TR 11   CH  9   NT  B         1+27/64
+BA    8   CR     5/192   TR 12   CH 11   NT  E'''        17/64   von=73
+BA    8   CR       1/3   TR  0   CH 16   Tempo 86
+BA    8   CR    79/192   TR 12   CH 11   NT  E'''        13/96   von=76
+BA    8   CR      7/12   TR  0   CH 16   Tempo 86.1
+BA    8   CR     59/96   TR 12   CH 11   NT  E'''       31/192   von=75
+BA    8   CR       2/3   TR  0   CH 16   Tempo 86.2001
+BA    8   CR     73/96   TR 12   CH 11   NT  D'''         7/48   von=58
+BA    8   CR     41/48   TR 12   CH 11   NT  E'''       23/192   von=69
+BA    8   CR     11/12   TR  0   CH 16   Tempo 86.3
+BA    8   CR   187/192   TR 12   CH 11   NT  D'''      1+25/48   von=53
+BA    8   CR  1+13/192   TR 12   CH 11   NT  E'''       23/192   von=74
+BA    8   CR     1+1/4   TR  0   CH 16   Tempo 86.5001
+BA    8   CR    1+7/24   TR 12   CH 11   NT  E'''        13/96   von=68
+BA    8   CR     1+1/3   TR  0   CH 16   Tempo 86.6001
+BA    8   CR   1+31/64   TR 11   CH  9   NT  A         107/192
+BA    8   CR   1+47/96   TR 10   CH  8   NT  C'          17/24
+BA    8   CR     1+1/2   TR  1   CH  2   NT  C'          41/96
+BA    8   CR   1+33/64   TR  9   CH  7   NT  D--         29/64
+BA    8   CR   1+25/48   TR  4   CH  5   NT  F#-          7/16   von=121
+BA    8   CR   1+25/48   TR  5   CH  6   NT  A-         79/192   von=115
+BA    8   CR   1+25/48   TR 12   CH 11   NT  E'''       25/192   von=69
+BA    8   CR 1+101/192   TR  3   CH  4   NT  D-          23/96
+BA    8   CR   1+17/32   TR  2   CH  3   NT  D--         41/96
+BA    8   CR     1+2/3   TR  0   CH 16   Tempo 86.7001
+BA    8   CR 1+143/192   TR 12   CH 11   NT  E'''       29/192   von=73
+BA    8   CR 1+187/192   TR 12   CH 11   NT  E'''        13/96
+BA    8   CR   1+63/64   TR  9   CH  7   NT  G--      1+13/192
+BA    8   CR         2   TR  0   CH 16   Tempo 86.8
+BA    8   CR         2   TR 10   CH  8   NT  B         1+1/192
+BA    8   CR         2   TR 11   CH  9   NT  G          1+1/64
+BA    8   CR    2+1/96   TR  3   CH  4   NT  D-          79/96
+BA    8   CR    2+1/48   TR  1   CH  2   NT  B           41/48
+BA    8   CR    2+1/48   TR  2   CH  3   NT  G--       187/192
+BA    8   CR   2+5/192   TR  4   CH  5   NT  G-          57/64   von=107
+BA    8   CR    2+1/24   TR  5   CH  6   NT  G-          79/96   von=127
+BA    8   CR  2+41/192   TR 12   CH 11   NT  E'''        13/96   von=71
+BA    8   CR     2+1/4   TR  0   CH 16   Tempo 86.9001
+BA    8   CR  2+85/192   TR 12   CH 11   NT  E'''       25/192   von=72
+BA    8   CR   2+55/96   TR 12   CH 11   NT  D'''        13/96   von=58
+BA    8   CR 2+125/192   TR 12   CH 11   NT  E'''         3/16   von=78
+BA    8   CR     2+2/3   TR  0   CH 16   Tempo 87
+BA    8   CR   2+77/96   TR 12   CH 11   NT  D'''       23/192   von=63
+BA    8   CR   2+63/64   TR  1   CH  2   NT  C'          29/32
+BA    8   CR   2+63/64   TR  5   CH  6   NT  A-          41/48   von=123
+BA    8   CR   2+95/96   TR 10   CH  8   NT  C'          27/32
+
+BA    9   CR     1/192   TR  2   CH  3   NT  D--         63/64
+BA    9   CR      1/96   TR  4   CH  5   NT  F#-       161/192   von=122
+BA    9   CR      1/96   TR 11   CH  9   NT  A           43/48
+BA    9   CR      1/64   TR  3   CH  4   NT  D-          53/64
+BA    9   CR     7/192   TR  9   CH  7   NT  D--       185/192
+BA    9   CR      5/64   TR 12   CH 11   NT  C'''       29/192   von=88
+BA    9   CR      3/16   TR 12   CH 11   NT  D'''       31/192   von=77
+BA    9   CR       1/4   TR  0   CH 16   Tempo 87.1
+BA    9   CR       1/3   TR 12   CH 11   NT  C'''       31/192   von=81
+BA    9   CR     15/32   TR 12   CH 11   NT  D'''       25/192   von=69
+BA    9   CR     55/96   TR 12   CH 11   NT  C'''         3/16   von=77
+BA    9   CR     17/24   TR  0   CH 16   Tempo 87.2
+BA    9   CR     23/32   TR 12   CH 11   NT  D'''        13/96   von=66
+BA    9   CR     53/64   TR 12   CH 11   NT  C'''         3/16   von=73
+BA    9   CR   187/192   TR 10   CH  8   NT  C'          11/12
+BA    9   CR   187/192   TR 12   CH 11   NT  D'''        13/96   von=66
+BA    9   CR     63/64   TR  2   CH  3   NT  F#--       1+5/96
+BA    9   CR         1   TR  5   CH  6   NT  A-          53/64   von=127
+BA    9   CR         1   TR  9   CH  7   NT  F#--      1+5/192
+BA    9   CR    1+1/96   TR  1   CH  2   NT  C'        167/192
+BA    9   CR    1+1/96   TR  3   CH  4   NT  D-          53/64
+BA    9   CR    1+1/48   TR 11   CH  9   NT  A           23/24
+BA    9   CR   1+5/192   TR  4   CH  5   NT  F#-       151/192   von=104
+BA    9   CR    1+3/32   TR 12   CH 11   NT  C'''        11/64   von=74
+BA    9   CR   1+11/48   TR 12   CH 11   NT  D'''         7/48   von=72
+BA    9   CR  1+67/192   TR 12   CH 11   NT  C'''       35/192   von=71
+BA    9   CR   1+23/48   TR 12   CH 11   NT  D'''         7/48   von=66
+BA    9   CR 1+115/192   TR 12   CH 11   NT  C'''        13/64   von=65
+BA    9   CR 1+143/192   TR 12   CH 11   NT  D'''       29/192   von=66
+BA    9   CR   1+41/48   TR 12   CH 11   NT  C'''        19/96   von=62
+BA    9   CR 1+187/192   TR  9   CH  7   NT  A--        1+5/96
+BA    9   CR   1+63/64   TR 10   CH  8   NT  C'        179/192
+BA    9   CR 1+191/192   TR  2   CH  3   NT  A--        1+1/64
+BA    9   CR         2   TR 11   CH  9   NT  A           41/48
+BA    9   CR   2+1/192   TR  1   CH  2   NT  C'          41/48
+BA    9   CR   2+1/192   TR  3   CH  4   NT  D-        167/192
+BA    9   CR    2+1/96   TR  4   CH  5   NT  F#-         51/64   von=105
+BA    9   CR    2+1/64   TR 12   CH 11   NT  D'''       25/192   von=71
+BA    9   CR    2+1/24   TR  5   CH  6   NT  A-          37/48
+BA    9   CR   2+13/96   TR 12   CH 11   NT  C'''         3/16   von=65
+BA    9   CR    2+9/32   TR 12   CH 11   NT  D'''       25/192   von=68
+BA    9   CR   2+37/96   TR 12   CH 11   NT  C'''        13/64   von=66
+BA    9   CR   2+17/32   TR 12   CH 11   NT  D'''       29/192   von=67
+BA    9   CR   2+21/32   TR 12   CH 11   NT  C'''       35/192   von=66
+BA    9   CR 2+151/192   TR 12   CH 11   NT  D'''       31/192   von=67
+BA    9   CR   2+29/32   TR 12   CH 11   NT  C'''        13/64   von=72
+
+BA   10   CR         0   TR  1   CH  2   NT  C'         1+5/12
+BA   10   CR         0   TR  2   CH  3   NT  D--       1+23/64
+BA   10   CR     1/192   TR 10   CH  8   NT  C'       1+85/192
+BA   10   CR      1/96   TR  3   CH  4   NT  D-       1+77/192
+BA   10   CR      1/96   TR  4   CH  5   NT  F#-      1+71/192   von=109
+BA   10   CR      1/96   TR  9   CH  7   NT  D--       1+15/32
+BA   10   CR      1/64   TR  5   CH  6   NT  A-          1+1/3
+BA   10   CR     7/192   TR 11   CH  9   NT  A         1+15/32
+BA   10   CR      5/96   TR 12   CH 11   NT  D'''         7/48   von=66
+BA   10   CR    31/192   TR 12   CH 11   NT  C'''        19/96   von=64
+BA   10   CR     31/96   TR 12   CH 11   NT  D'''       25/192   von=66
+BA   10   CR    79/192   TR 12   CH 11   NT  C'''        13/64   von=65
+BA   10   CR      9/16   TR 12   CH 11   NT  D'''       25/192   von=64
+BA   10   CR       2/3   TR 12   CH 11   NT  C'''        13/64   von=63
+BA   10   CR     13/16   TR 12   CH 11   NT  D'''         7/48   von=65
+BA   10   CR     59/64   TR 12   CH 11   NT  C'''    1+133/192   von=62
+BA   10   CR    1+5/96   TR 12   CH 11   NT  D'''        13/96   von=65
+BA   10   CR     1+1/8   TR  0   CH 16   Tempo 87.1
+BA   10   CR  1+59/192   TR 12   CH 11   NT  D'''         7/48   von=64
+BA   10   CR   1+11/24   TR  0   CH 16   Tempo 87
+BA   10   CR   1+15/32   TR  5   CH  6   NT  G-          37/96
+BA   10   CR  1+91/192   TR 10   CH  8   NT  B         113/192
+BA   10   CR   1+23/48   TR  9   CH  7   NT  G--       107/192
+BA   10   CR  1+97/192   TR  4   CH  5   NT  G-         77/192   von=104
+BA   10   CR   1+49/96   TR  1   CH  2   NT  B           41/96
+BA   10   CR   1+49/96   TR  2   CH  3   NT  G--          7/16
+BA   10   CR   1+33/64   TR 11   CH  9   NT  G           25/48
+BA   10   CR 1+103/192   TR  3   CH  4   NT  D-         59/192
+BA   10   CR   1+35/64   TR 12   CH 11   NT  D'''         7/48
+BA   10   CR   1+77/96   TR 12   CH 11   NT  D'''       23/192   von=61
+BA   10   CR   1+95/96   TR  4   CH  5   NT  F#-         53/64
+BA   10   CR   1+95/96   TR 10   CH  8   NT  A           59/64
+BA   10   CR         2   TR  5   CH  6   NT  F#-         73/96
+BA   10   CR   2+1/192   TR  2   CH  3   NT  D--       181/192
+BA   10   CR    2+1/96   TR  3   CH  4   NT  D-          47/64
+BA   10   CR    2+1/64   TR 12   CH 11   NT  D'''         5/32   von=66
+BA   10   CR   2+5/192   TR  1   CH  2   NT  A         163/192
+BA   10   CR   2+5/192   TR 11   CH  9   NT  F#          53/64
+BA   10   CR   2+7/192   TR  9   CH  7   NT  D--         77/96
+BA   10   CR     2+1/8   TR  0   CH 16   Tempo 86.9001
+BA   10   CR    2+5/24   TR  0   CH 16   Tempo 86.8
+BA   10   CR   2+11/48   TR 12   CH 11   NT  D'''         7/48   von=61
+BA   10   CR    2+5/12   TR  0   CH 16   Tempo 86.7001
+BA   10   CR   2+35/64   TR 12   CH 11   NT  D'''         9/32   von=63
+BA   10   CR   2+17/24   TR  0   CH 16   Tempo 86.6001
+BA   10   CR 2+149/192   TR 12   CH 11   NT  C'''         5/32   von=62
+BA   10   CR   2+19/24   TR  0   CH 16   Tempo 86.5001
+BA   10   CR     2+7/8   TR  0   CH 16   Tempo 86.4
+BA   10   CR   2+23/24   TR  5   CH  6   NT  G-          59/64
+BA   10   CR   2+23/24   TR 10   CH  8   NT  B         1+7/192
+BA   10   CR 2+187/192   TR  9   CH  7   NT  G--             1
+BA   10   CR   2+47/48   TR  2   CH  3   NT  G--       1+1/192
+
+BA   11   CR         0   TR 11   CH  9   NT  G           59/64
+BA   11   CR     1/192   TR  1   CH  2   NT  B           91/96
+BA   11   CR     1/192   TR  4   CH  5   NT  G-          29/32   von=113
+BA   11   CR     5/192   TR  3   CH  4   NT  D-          23/24
+BA   11   CR       1/8   TR  0   CH 16   Tempo 86.3
+BA   11   CR      7/48   TR 12   CH 11   NT  B''           3/4   von=66
+BA   11   CR       3/8   TR  0   CH 16   Tempo 86.1
+BA   11   CR     11/24   TR  0   CH 16   Tempo 85.9001
+BA   11   CR     19/24   TR  0   CH 16   Tempo 85.8001
+BA   11   CR     23/24   TR 12   CH 11   NT  C'''       85/192   von=76
+BA   11   CR     47/48   TR 10   CH  8   NT  C'        121/192
+BA   11   CR     63/64   TR  4   CH  5   NT  F#-        97/192   von=108
+BA   11   CR   1+1/192   TR  2   CH  3   NT  A--         47/96
+BA   11   CR   1+1/192   TR  3   CH  4   NT  C-          29/64
+BA   11   CR    1+1/96   TR 11   CH  9   NT  A           23/48
+BA   11   CR    1+1/48   TR  1   CH  2   NT  C'          15/32
+BA   11   CR   1+5/192   TR  9   CH  7   NT  A--         41/96
+BA   11   CR    1+1/24   TR  0   CH 16   Tempo 85.6001
+BA   11   CR    1+1/24   TR  5   CH  6   NT  A-         77/192
+BA   11   CR    1+7/24   TR  0   CH 16   Tempo 85.4
+BA   11   CR     1+3/8   TR  0   CH 16   Tempo 85.2
+BA   11   CR    1+7/16   TR  9   CH  7   NT  G--         29/64   von=125
+BA   11   CR  1+85/192   TR 12   CH 11   NT  B''         35/64   von=63
+BA   11   CR   1+23/48   TR  3   CH  4   NT  B--         49/96
+BA   11   CR   1+47/96   TR  2   CH  3   NT  G--         31/64
+BA   11   CR   1+47/96   TR  4   CH  5   NT  G-          35/64   von=100
+BA   11   CR  1+95/192   TR  1   CH  2   NT  B           23/64
+BA   11   CR  1+95/192   TR  5   CH  6   NT  G-          37/96   von=119
+BA   11   CR     1+1/2   TR 11   CH  9   NT  G           25/48
+BA   11   CR   1+33/64   TR 10   CH  8   NT  B           25/48
+BA   11   CR     1+5/8   TR  0   CH 16   Tempo 85
+BA   11   CR     1+7/8   TR  0   CH 16   Tempo 84.8
+BA   11   CR   1+23/24   TR  0   CH 16   Tempo 84.2
+BA   11   CR 1+187/192   TR  9   CH  7   NT  F#--       89/192   von=127
+BA   11   CR   1+47/48   TR  1   CH  2   NT  A           17/32
+BA   11   CR   1+47/48   TR  2   CH  3   NT  F#--         7/16
+BA   11   CR   1+63/64   TR  3   CH  4   NT  A--         29/64
+BA   11   CR   1+95/96   TR  5   CH  6   NT  F#-         19/48   von=127
+BA   11   CR   1+95/96   TR 12   CH 11   NT  A''        79/192   von=66
+BA   11   CR         2   TR  4   CH  5   NT  D-         79/192
+BA   11   CR         2   TR 10   CH  8   NT  A           25/48
+BA   11   CR         2   TR 11   CH  9   NT  F#          25/48
+BA   11   CR    2+1/24   TR  0   CH 16   Tempo 84.0001
+BA   11   CR     2+1/8   TR  0   CH 16   Tempo 83.4
+BA   11   CR     2+3/8   TR  0   CH 16   Tempo 83.2001
+BA   11   CR    2+7/16   TR  9   CH  7   NT  E--       113/192   von=105
+BA   11   CR   2+29/64   TR  4   CH  5   NT  C#-       113/192   von=97
+BA   11   CR   2+29/64   TR  5   CH  6   NT  E-           9/32   von=91
+BA   11   CR  2+89/192   TR  3   CH  4   NT  G--         37/64
+BA   11   CR   2+15/32   TR  2   CH  3   NT  E--       115/192
+BA   11   CR   2+47/96   TR  1   CH  2   NT  G           15/32
+BA   11   CR   2+47/96   TR 10   CH  8   NT  G           55/96
+BA   11   CR  2+95/192   TR 11   CH  9   NT  E           25/48   von=124
+BA   11   CR  2+95/192   TR 12   CH 11   NT  G''        31/192   von=69
+BA   11   CR     2+5/8   TR  0   CH 16   Tempo 83.0001
+BA   11   CR   2+17/24   TR  0   CH 16   Tempo 82.4
+BA   11   CR   2+23/24   TR  0   CH 16   Tempo 81.8
+BA   11   CR   2+95/96   TR  3   CH  4   NT  D-          1+3/8
+BA   11   CR 2+191/192   TR  2   CH  3   NT  D--        97/192
+
+BA   12   CR         0   TR  4   CH  5   NT  G-        1+17/64   von=118
+BA   12   CR         0   TR  5   CH  6   NT  G-        1+29/64   von=127
+BA   12   CR         0   TR  9   CH  7   NT  D--        97/192   von=127
+BA   12   CR         0   TR 10   CH  8   NT  B        1+97/192
+BA   12   CR         0   TR 12   CH 11   NT  B''          5/48   von=78
+BA   12   CR     1/192   TR  6   CH 10   NT  C#-          3/32
+BA   12   CR     1/192   TR 11   CH  9   NT  G         1+33/64   von=127
+BA   12   CR     5/192   TR  1   CH  2   NT  B        1+77/192
+BA   12   CR     5/192   TR  7   CH 12   NT  D-        1+17/64
+BA   12   CR      5/48   TR 12   CH 11   NT  C'''       23/192   von=75
+BA   12   CR    43/192   TR 12   CH 11   NT  B''        29/192   von=63
+BA   12   CR      7/24   TR  0   CH 16   Tempo 81.6
+BA   12   CR     23/64   TR 12   CH 11   NT  C'''         3/32   von=72
+BA   12   CR     29/64   TR  9   CH  7   NT  C--         25/48
+BA   12   CR     29/64   TR 12   CH 11   NT  B''         11/64   von=61
+BA   12   CR     31/64   TR  2   CH  3   NT  C--        95/192
+BA   12   CR     13/24   TR  0   CH 16   Tempo 81.4001
+BA   12   CR   113/192   TR 12   CH 11   NT  C'''         5/48   von=74
+BA   12   CR     65/96   TR 12   CH 11   NT  B''         13/96   von=59
+BA   12   CR   151/192   TR 12   CH 11   NT  C'''       23/192   von=73
+BA   12   CR     19/24   TR  0   CH 16   Tempo 80.8
+BA   12   CR     29/32   TR 12   CH 11   NT  B''         13/96   von=61
+BA   12   CR   187/192   TR  9   CH  7   NT  B---        47/96
+BA   12   CR     47/48   TR  2   CH  3   NT  B---       89/192
+BA   12   CR         1   TR 12   CH 11   NT  C'''       23/192   von=81
+BA   12   CR    1+1/24   TR  0   CH 16   Tempo 80.6001
+BA   12   CR    1+3/32   TR 12   CH 11   NT  B''         41/96   von=67
+BA   12   CR     1+3/8   TR  0   CH 16   Tempo 80.4001
+BA   12   CR   1+15/32   TR  2   CH  3   NT  A---        41/96
+BA   12   CR   1+15/32   TR 10   CH  8   NT  C'        121/192
+BA   12   CR   1+23/48   TR  5   CH  6   NT  F#-         41/96   von=115
+BA   12   CR   1+23/48   TR  9   CH  7   NT  A---         7/16
+BA   12   CR   1+47/96   TR  3   CH  4   NT  D-           9/32
+BA   12   CR  1+95/192   TR 12   CH 11   NT  C'''        41/96   von=79
+BA   12   CR     1+1/2   TR  1   CH  2   NT  C'         77/192
+BA   12   CR     1+1/2   TR  4   CH  5   NT  F#-         29/64   von=108
+BA   12   CR   1+33/64   TR 11   CH  9   NT  F#          15/32
+BA   12   CR     1+5/8   TR  0   CH 16   Tempo 80.2001
+BA   12   CR     1+7/8   TR  0   CH 16   Tempo 80
+BA   12   CR   1+63/64   TR 12   CH 11   NT  D'''      151/192   von=61
+BA   12   CR   1+95/96   TR  3   CH  4   NT  D-          27/32
+BA   12   CR 1+191/192   TR  2   CH  3   NT  G---      187/192
+BA   12   CR         2   TR  1   CH  2   NT  D'          51/64
+BA   12   CR         2   TR 10   CH  8   NT  D'         1+5/96
+BA   12   CR         2   TR 11   CH  9   NT  F          1+1/64
+BA   12   CR   2+1/192   TR  4   CH  5   NT  F-        167/192   von=111
+BA   12   CR    2+1/96   TR  5   CH  6   NT  F-          17/24   von=109
+BA   12   CR    2+1/96   TR  9   CH  7   NT  G---      185/192
+BA   12   CR    2+5/24   TR  0   CH 16   Tempo 79.8001
+BA   12   CR    2+7/24   TR  0   CH 16   Tempo 79.6001
+BA   12   CR     2+5/8   TR  0   CH 16   Tempo 79.5001
+BA   12   CR     2+7/8   TR  0   CH 16   Tempo 79.3
+BA   12   CR   2+23/24   TR  0   CH 16   Tempo 79.1001
+BA   12   CR 2+185/192   TR  1   CH  2   NT  E'          17/32
+BA   12   CR   2+95/96   TR  3   CH  4   NT  E-          91/96
+BA   12   CR 2+191/192   TR  2   CH  3   NT  C--         23/24
+
+BA   13   CR         0   TR  4   CH  5   NT  E-        187/192   von=103
+BA   13   CR      1/96   TR 10   CH  8   NT  E'          25/48
+BA   13   CR     5/192   TR 11   CH  9   NT  G           29/32
+BA   13   CR     5/192   TR 11   CH  9   NT  E           29/32   von=109
+BA   13   CR      1/24   TR  7   CH 12   NT  C-          15/32
+BA   13   CR      1/24   TR 12   CH 11   NT  E'''       79/192   von=60
+BA   13   CR      5/96   TR  5   CH  6   NT  E-          41/48   von=105
+BA   13   CR      5/96   TR  9   CH  7   NT  C--         59/64
+BA   13   CR      5/24   TR  0   CH 16   Tempo 78.9
+BA   13   CR     11/24   TR  0   CH 16   Tempo 78.8
+BA   13   CR     15/32   TR  1   CH  2   NT  C'            1/3
+BA   13   CR     23/48   TR 12   CH 11   NT  C'''      103/192   von=62
+BA   13   CR    95/192   TR 10   CH  8   NT  C'            5/8
+BA   13   CR     17/24   TR  0   CH 16   Tempo 78.6001
+BA   13   CR     19/24   TR  0   CH 16   Tempo 78.4
+BA   13   CR   187/192   TR  2   CH  3   NT  D--         13/16
+BA   13   CR   187/192   TR  4   CH  5   NT  G-         1+1/96   von=110
+BA   13   CR     63/64   TR  1   CH  2   NT  B           27/32
+BA   13   CR     63/64   TR  3   CH  4   NT  D-          51/64
+BA   13   CR         1   TR  5   CH  6   NT  D-          23/32
+BA   13   CR         1   TR  9   CH  7   NT  D--         53/64
+BA   13   CR   1+5/192   TR  7   CH 12   NT  D-         65/192
+BA   13   CR   1+5/192   TR 12   CH 11   NT  B''       133/192   von=58
+BA   13   CR    1+1/32   TR 10   CH  8   NT  B               1
+BA   13   CR   1+7/192   TR 11   CH  9   NT  G         151/192   von=127
+BA   13   CR   1+7/192   TR 11   CH  9   NT  E         151/192   von=123
+BA   13   CR    1+1/24   TR  0   CH 16   Tempo 78.3001
+BA   13   CR    1+1/12   TR  0   CH 16   Tempo 78.2
+BA   13   CR     1+1/6   TR  0   CH 16   Tempo 78.0001
+BA   13   CR     1+1/4   TR  0   CH 16   Tempo 77.9
+BA   13   CR     1+1/2   TR  0   CH 16   Tempo 77.7001
+BA   13   CR    1+7/12   TR  0   CH 16   Tempo 77.5001
+BA   13   CR   1+21/32   TR  7   CH 12   NT  D-         13/192   von=99
+BA   13   CR     1+2/3   TR  0   CH 16   Tempo 77.4001
+BA   13   CR     1+3/4   TR  0   CH 16   Tempo 77.2
+BA   13   CR 1+149/192   TR  7   CH 12   NT  D-         23/192   von=127
+BA   13   CR 1+185/192   TR  7   CH 12   NT  D-         79/192
+BA   13   CR   1+47/48   TR  3   CH  4   NT  D-        103/192
+BA   13   CR   1+63/64   TR  1   CH  2   NT  A           27/32
+BA   13   CR   1+63/64   TR 10   CH  8   NT  A          1+3/32
+BA   13   CR 1+191/192   TR  2   CH  3   NT  D--        1+1/64
+BA   13   CR         2   TR  0   CH 16   Tempo 76.6001
+BA   13   CR         2   TR  9   CH  7   NT  D--       1+7/192
+BA   13   CR    2+1/96   TR  4   CH  5   NT  F#-        1+7/48   von=100
+BA   13   CR    2+1/96   TR 11   CH  9   NT  F#          63/64   von=127
+BA   13   CR    2+1/64   TR  5   CH  6   NT  D-          27/64   von=125
+BA   13   CR    2+1/64   TR 11   CH  9   NT  D           29/32   von=115
+BA   13   CR   2+5/192   TR 12   CH 11   NT  A''         17/96   von=61
+BA   13   CR    2+3/16   TR 12   CH 11   NT  B''        23/192
+BA   13   CR     2+1/4   TR  0   CH 16   Tempo 76.4
+BA   13   CR    2+7/24   TR  0   CH 16   Tempo 76.2001
+BA   13   CR   2+31/96   TR 12   CH 11   NT  A''          7/48   von=60
+BA   13   CR   2+41/96   TR 12   CH 11   NT  B''          7/48   von=65
+BA   13   CR  2+91/192   TR  3   CH  4   NT  C-          17/32
+BA   13   CR   2+23/48   TR  5   CH  6   NT  C#-        95/192   von=109
+BA   13   CR   2+49/96   TR  7   CH 12   NT  D-           7/48
+BA   13   CR   2+13/24   TR  0   CH 16   Tempo 76.1
+BA   13   CR   2+55/96   TR 12   CH 11   NT  A''        85/192   von=53
+BA   13   CR     2+5/8   TR  0   CH 16   Tempo 75.9001
+BA   13   CR   2+17/24   TR  0   CH 16   Tempo 75.7
+BA   13   CR     2+3/4   TR  8   CH 13   ST &BC &5B &7F
+BA   13   CR   2+23/24   TR  0   CH 16   Tempo 75.5001
+BA   13   CR   2+23/24   TR  8   CH 13   ST &BC &40 &7F
+
+BA   14   CR         0   TR  2   CH  3   NT  G---      2+15/32
+BA   14   CR         0   TR  7   CH 12   NT  G--          5/48
+BA   14   CR      1/96   TR  1   CH  2   NT  G         2+37/96
+BA   14   CR      1/96   TR 10   CH  8   NT  G          2+7/48
+BA   14   CR      1/64   TR  5   CH  6   NT  D-         2+1/96   von=99
+BA   14   CR      1/48   TR  3   CH  4   NT  B--       2+5/192
+BA   14   CR      1/32   TR  6   CH 10   NT  C#-          3/32   von=118
+BA   14   CR      1/32   TR  6   CH 10   NT  A-         23/192   von=116
+BA   14   CR     7/192   TR 11   CH  9   NT  D          2+7/48   von=108
+BA   14   CR      1/24   TR  0   CH 16   Tempo 75.3001
+BA   14   CR      5/96   TR  4   CH  5   NT  D-         2+5/96   von=97
+BA   14   CR      5/96   TR 11   CH  9   NT  G         2+13/96   von=127
+BA   14   CR      5/96   TR 12   CH 11   NT  G''        29/192   von=62
+BA   14   CR    13/192   TR  9   CH  7   NT  G---      2+17/64
+BA   14   CR       1/8   TR  0   CH 16   Tempo 75.2
+BA   14   CR    29/192   TR  6   CH 16   End of track
+BA   14   CR       1/6   TR  0   CH 16   Tempo 75
+BA   14   CR     17/96   TR 12   CH 11   NT  A''          5/48   von=65
+BA   14   CR     13/64   TR  7   CH 12   NT  G--          5/48   von=113
+BA   14   CR      5/24   TR  0   CH 16   Tempo 74.9
+BA   14   CR      5/24   TR  0   CH 16   End of track
+BA   14   CR     19/64   TR 12   CH 11   NT  G''          5/32   von=61
+BA   14   CR     37/96   TR  7   CH 12   NT  G--        11/192   von=95
+BA   14   CR      5/12   TR 12   CH 11   NT  A''        23/192   von=72
+BA   14   CR    95/192   TR  7   CH 12   NT  G--          5/48   von=103
+BA   14   CR   103/192   TR 12   CH 11   NT  G''        35/192   von=62
+BA   14   CR       5/8   TR  7   CH 12   NT  G--          3/32
+BA   14   CR     41/64   TR 12   CH 11   NT  A''         13/96   von=66
+BA   14   CR       2/3   TR  8   CH 13   NT  G--         11/48   von=127
+BA   14   CR   149/192   TR  7   CH 12   NT  G--          3/32   von=107
+BA   14   CR   149/192   TR 12   CH 11   NT  G''         11/64   von=58
+BA   14   CR   157/192   TR  8   CH 13   NT  A--          3/32   von=65
+BA   14   CR     55/64   TR  8   CH 13   NT  B--          7/48   von=97
+BA   14   CR   169/192   TR  7   CH 12   NT  G--          3/32   von=119
+BA   14   CR     43/48   TR 12   CH 11   NT  A''        25/192   von=68
+BA   14   CR     61/64   TR  8   CH 13   NT  D-         31/192   von=103
+BA   14   CR   1+5/192   TR  7   CH 12   NT  G--          3/32   von=123
+BA   14   CR    1+1/24   TR 12   CH 11   NT  G''         11/64   von=62
+BA   14   CR    1+7/96   TR  8   CH 13   NT  E-         23/192   von=111
+BA   14   CR  1+23/192   TR  7   CH 12   NT  G--          7/64   von=127
+BA   14   CR    1+7/48   TR 12   CH 11   NT  A''         13/96   von=65
+BA   14   CR  1+29/192   TR  8   CH 13   NT  G-         23/192   von=127
+BA   14   CR  1+47/192   TR  8   CH 13   NT  A-           5/64   von=78
+BA   14   CR    1+9/32   TR  7   CH 12   NT  G--          3/32
+BA   14   CR    1+9/32   TR 12   CH 11   NT  G''         11/64   von=58
+BA   14   CR    1+5/16   TR  8   CH 13   NT  B-           3/32   von=79
+BA   14   CR     1+3/8   TR  7   CH 12   NT  G--          3/32
+BA   14   CR  1+73/192   TR  8   CH 13   NT  D            5/48   von=127
+BA   14   CR   1+37/96   TR 12   CH 11   NT  A''         13/96   von=65
+BA   14   CR   1+11/24   TR  8   CH 13   NT  E            3/32   von=84
+BA   14   CR   1+25/48   TR 12   CH 11   NT  G''        31/192   von=55
+BA   14   CR 1+101/192   TR  8   CH 13   NT  G            5/48   von=127
+BA   14   CR   1+35/64   TR  7   CH 12   NT  G--        13/192
+BA   14   CR   1+19/32   TR  8   CH 13   NT  A            3/32   von=91
+BA   14   CR   1+59/96   TR  7   CH 12   NT  G--          5/48
+BA   14   CR 1+121/192   TR 12   CH 11   NT  A''          7/48   von=66
+BA   14   CR   1+31/48   TR  8   CH 13   NT  B            3/32   von=121
+BA   14   CR 1+137/192   TR  8   CH 13   NT  D'           5/48   von=127
+BA   14   CR 1+149/192   TR 12   CH 11   NT  G''          5/32   von=59
+BA   14   CR   1+25/32   TR  8   CH 13   NT  E'         17/192   von=121
+BA   14   CR 1+151/192   TR  7   CH 12   NT  G--          7/64
+BA   14   CR   1+27/32   TR  8   CH 13   NT  G'           3/32   von=127
+BA   14   CR 1+167/192   TR 12   CH 11   NT  A''        25/192   von=67
+BA   14   CR   1+43/48   TR  7   CH 12   NT  G--          3/32
+BA   14   CR 1+173/192   TR  8   CH 13   NT  A'         17/192
+BA   14   CR   1+15/16   TR  8   CH 13   NT  B'           7/64
+BA   14   CR         2   TR 12   CH 11   NT  G''          3/32   von=53
+BA   14   CR   2+1/192   TR  8   CH 13   NT  D''        23/192
+BA   14   CR   2+5/192   TR  5   CH 16   End of track
+BA   14   CR    2+1/24   TR  7   CH 12   NT  G--         23/48
+BA   14   CR    2+3/64   TR  3   CH 16   End of track
+BA   14   CR  2+11/192   TR 12   CH 11   NT  A''        35/192   von=66
+BA   14   CR    2+7/96   TR  8   CH 13   NT  E''        25/192
+BA   14   CR    2+5/48   TR  4   CH 16   End of track
+BA   14   CR  2+29/192   TR  8   CH 13   NT  G''          7/48
+BA   14   CR    2+5/32   TR 10   CH 16   End of track
+BA   14   CR    2+3/16   TR 11   CH 16   End of track
+BA   14   CR   2+13/64   TR 12   CH 11   NT  G''        41/192   von=61
+BA   14   CR     2+1/3   TR  9   CH 16   End of track
+BA   14   CR   2+19/48   TR  1   CH 16   End of track
+BA   14   CR    2+5/12   TR 12   CH 16   End of track
+BA   14   CR   2+15/32   TR  2   CH 16   End of track
+BA   14   CR   2+25/48   TR  7   CH 16   End of track
+BA   14   CR     2+7/8   TR  8   CH 13   ST &BC &40 &00
+BA   14   CR     2+7/8   TR  8   CH 16   End of track
+# Successfully parsed
+# Duration = 30.0696 seconds

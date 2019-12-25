@@ -1,0 +1,307 @@
+format=1 tracks=2 division=480
+
+BA    1   CR         0   TR  0   CH 16   Tempo 150
+BA    1   CR         0   TR  0   CH 16   Time signature 6/8, clocks/mtick 12, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key Eb major
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Instrument 20
+
+BA    2   CR   1+31/80   TR  1   CH  1   NT  Eb-         1+1/2   von=100   voff=80
+BA    2   CR   1+31/80   TR  1   CH  1   NT  G-       1+89/160   voff=80
+BA    2   CR  1+71/160   TR  1   CH  1   NT  Eb          1+1/6   voff=80
+BA    2   CR   2+51/80   TR  1   CH  1   NT  Eb        173/480   voff=80
+
+BA    3   CR         0   TR  1   CH  1   NT  C           2+5/6   voff=80
+BA    3   CR    13/480   TR  1   CH  1   NT  Ab-         2+5/6   voff=80
+BA    3   CR    13/480   TR  1   CH  1   NT  Eb-         2+5/6   voff=80
+BA    3   CR    13/240   TR  1   CH  1   NT  Ab          2+5/6   voff=80
+
+BA    4   CR    13/480   TR  1   CH  1   NT  Eb          1+1/2   voff=80
+BA    4   CR    13/240   TR  1   CH  1   NT  Bb-        1+5/12   voff=80
+BA    4   CR    13/240   TR  1   CH  1   NT  G-         1+5/12   voff=80
+BA    4   CR    53/480   TR  1   CH  1   NT  Bb           9/20   voff=80
+BA    4   CR   293/480   TR  1   CH  1   NT  Ab           9/20   voff=80
+BA    4   CR    1+1/12   TR  1   CH  1   NT  Bb           9/20   voff=80
+BA    4   CR 1+293/480   TR  1   CH  1   NT  C'        413/480   voff=80
+BA    4   CR   1+51/80   TR  1   CH  1   NT  Bb-         1+1/4   voff=80
+BA    4   CR 1+111/160   TR  1   CH  1   NT  E           1+1/4   voff=80
+BA    4   CR 1+173/240   TR  1   CH  1   NT  C        1+67/480   voff=80
+BA    4   CR     2+1/2   TR  1   CH  1   NT  Bb           9/20   voff=80
+
+BA    5   CR    13/480   TR  1   CH  1   NT  Ab-         2+5/6   voff=80
+BA    5   CR      1/12   TR  1   CH  1   NT  Ab          2+3/4   voff=80
+BA    5   CR      1/12   TR  1   CH  1   NT  C       2+111/160   voff=80
+BA    5   CR      1/12   TR  1   CH  1   NT  Eb-     2+111/160   voff=80
+
+BA    6   CR    13/240   TR  1   CH  1   NT  Eb      1+187/480   voff=80
+BA    6   CR      1/12   TR  1   CH  1   NT  G           11/12   voff=80
+BA    6   CR      1/12   TR  1   CH  1   NT  Bb-        1+5/12   voff=80
+BA    6   CR      1/12   TR  1   CH  1   NT  G-         1+5/12   voff=80
+BA    6   CR         1   TR  1   CH  1   NT  Ab           9/20   voff=80
+BA    6   CR 1+253/480   TR  1   CH  1   NT  Bb              4   voff=80
+BA    6   CR 1+133/240   TR  1   CH  1   NT  F           3+1/3   voff=80
+BA    6   CR    1+7/12   TR  1   CH  1   NT  D          3+5/12   voff=80
+BA    6   CR   1+51/80   TR  1   CH  1   NT  Bb-        3+5/12   voff=80
+
+BA    8   CR    13/480   TR  1   CH  1   NT  Eb-     1+253/480   voff=80
+BA    8   CR    13/480   TR  1   CH  1   NT  Ab-         1+1/2   voff=80
+BA    8   CR    13/240   TR  1   CH  1   NT  Ab        467/480   voff=80
+BA    8   CR      1/12   TR  1   CH  1   NT  C       4+151/160   voff=80
+BA    8   CR  1+13/480   TR  1   CH  1   NT  G            9/20   voff=80
+BA    8   CR 1+253/480   TR  1   CH  1   NT  F           3+1/2   voff=80
+BA    8   CR    1+7/12   TR  1   CH  1   NT  A-          3+1/3   voff=80
+BA    8   CR   1+51/80   TR  1   CH  1   NT  F-      3+187/480   voff=80
+
+BA   10   CR         0   TR  1   CH  1   NT  Eb        427/480   voff=80
+BA   10   CR    13/480   TR  1   CH  1   NT  Eb-          9/10   voff=80
+BA   10   CR   151/160   TR  1   CH  1   NT  Eb            1/2   voff=80
+BA   10   CR  1+13/480   TR  1   CH  1   NT  Eb-       1+11/12   voff=80
+BA   10   CR 1+133/240   TR  1   CH  1   NT  Bb         1+5/12   voff=80
+BA   10   CR 1+133/240   TR  1   CH  1   NT  Bb-         1+1/3   voff=80
+BA   10   CR    1+7/12   TR  1   CH  1   NT  F-          1+1/4   voff=80
+
+BA   11   CR      1/12   TR  1   CH  1   NT  Bb      1+133/480   voff=80
+BA   11   CR    53/480   TR  1   CH  1   NT  Bb-         1+1/4   voff=80
+BA   11   CR    53/480   TR  1   CH  1   NT  Eb-     1+133/480   voff=80
+BA   11   CR     11/80   TR  1   CH  1   NT  F-      1+107/480   voff=80
+BA   11   CR 1+253/480   TR  1   CH  1   NT  F'          1+1/2   voff=80
+BA   11   CR 1+253/480   TR  1   CH  1   NT  C'         1+5/12   voff=80
+BA   11   CR 1+253/480   TR  1   CH  1   NT  Ab         1+5/12   voff=80
+BA   11   CR    1+7/12   TR  1   CH  1   NT  F           1+1/3   voff=80
+
+BA   12   CR    13/480   TR  1   CH  1   NT  Eb'         11/12   voff=80
+BA   12   CR    13/480   TR  1   CH  1   NT  Eb        2+11/12   voff=80
+BA   12   CR    13/240   TR  1   CH  1   NT  Bb      2+427/480   voff=80
+BA   12   CR    53/480   TR  1   CH  1   NT  Ab          2+5/6   voff=80
+BA   12   CR    1+1/12   TR  1   CH  1   NT  Db'          9/20   voff=80
+BA   12   CR 1+293/480   TR  1   CH  1   NT  Eb'         1+1/3   voff=80
+
+BA   13   CR    13/240   TR  1   CH  1   NT  Bb      2+227/480   voff=80
+BA   13   CR    13/240   TR  1   CH  1   NT  F         2+11/12   voff=80
+BA   13   CR    53/480   TR  1   CH  1   NT  Eb'      2+71/160   voff=80
+BA   13   CR     2+1/2   TR  1   CH  1   NT  Db'           1/2   voff=80
+BA   13   CR 2+253/480   TR  1   CH  1   NT  A            5/12   voff=80
+
+BA   14   CR    13/480   TR  1   CH  1   NT  C'              1   voff=80
+BA   14   CR    13/480   TR  1   CH  1   NT  Ab-     4+253/480   voff=80
+BA   14   CR    13/240   TR  1   CH  1   NT  F         467/480   voff=80
+BA   14   CR    13/240   TR  1   CH  1   NT  C         467/480   voff=80
+BA   14   CR    1+1/12   TR  1   CH  1   NT  Db'          5/12   voff=80
+BA   14   CR    1+7/12   TR  1   CH  1   NT  Eb'        1+5/12   voff=80
+BA   14   CR     1+2/3   TR  1   CH  1   NT  Eb          2+5/6   voff=80
+BA   14   CR 1+111/160   TR  1   CH  1   NT  Bb          2+3/4   voff=80
+
+BA   15   CR         0   TR  1   CH  1   NT  Eb'         1+1/2   voff=80
+BA   15   CR 1+253/480   TR  1   CH  1   NT  Db'           1/2   voff=80
+BA   15   CR 1+151/160   TR  1   CH  1   NT  Ab-        1+1/12   voff=80
+BA   15   CR 1+151/160   TR  1   CH  1   NT  Eb              1   voff=80
+BA   15   CR 1+151/160   TR  1   CH  1   NT  C-         1+1/12   voff=80
+BA   15   CR         2   TR  1   CH  1   NT  C'              1   voff=80
+
+BA   16   CR    13/240   TR  1   CH  1   NT  F            7/12   voff=80
+BA   16   CR      1/12   TR  1   CH  1   NT  Bb-           1/2   voff=80
+BA   16   CR    53/480   TR  1   CH  1   NT  Bb           7/12   voff=80
+BA   16   CR       3/4   TR  1   CH  1   NT  Ab       2+31/160   voff=80
+BA   16   CR       3/4   TR  1   CH  1   NT  C        2+31/160   voff=80
+BA   16   CR       3/4   TR  1   CH  1   NT  Eb-         2+1/4   voff=80
+
+BA   17   CR     71/80   TR  1   CH  1   NT  Eb-          9/10   voff=80
+BA   17   CR     71/80   TR  1   CH  1   NT  Bb-          9/10   voff=80
+BA   17   CR   151/160   TR  1   CH  1   NT  Eb        467/480   voff=80
+BA   17   CR 1+233/240   TR  1   CH  1   NT  Eb-          9/10   voff=80
+BA   17   CR  2+13/480   TR  1   CH  1   NT  Eb          11/12   voff=80
+BA   17   CR  2+13/240   TR  1   CH  1   NT  Bb-          9/10   voff=80
+
+BA   18   CR    13/240   TR  1   CH  1   NT  Eb-     2+373/480   voff=80
+BA   18   CR      1/12   TR  1   CH  1   NT  C           2+5/6   voff=80
+BA   18   CR    53/480   TR  1   CH  1   NT  Ab         71/160   voff=80
+BA   18   CR       2/3   TR  1   CH  1   NT  Ab           5/12   voff=80
+BA   18   CR  1+53/240   TR  1   CH  1   NT  Ab         1+7/12   voff=80
+
+BA   19   CR    13/240   TR  1   CH  1   NT  Bb      1+187/480   voff=80
+BA   19   CR      1/12   TR  1   CH  1   NT  F           2+2/3   voff=80
+BA   19   CR    53/480   TR  1   CH  1   NT  Db      2+111/160   voff=80
+BA   19   CR     11/80   TR  1   CH  1   NT  Bb-     2+307/480   voff=80
+BA   19   CR     1+1/2   TR  1   CH  1   NT  Bb      1+173/480   voff=80
+
+BA   20   CR    53/480   TR  1   CH  1   NT  C'          11/12   voff=80
+BA   20   CR    53/480   TR  1   CH  1   NT  C            9/10   voff=80
+BA   20   CR    53/480   TR  1   CH  1   NT  A            9/20   voff=80
+BA   20   CR    53/480   TR  1   CH  1   NT  F           2+1/3   voff=80
+BA   20   CR  1+13/240   TR  1   CH  1   NT  Bb      1+227/480   voff=80
+BA   20   CR  1+13/240   TR  1   CH  1   NT  Bb-     1+227/480   voff=80
+BA   20   CR  1+53/480   TR  1   CH  1   NT  Db          1+5/6   voff=80
+BA   20   CR     2+1/2   TR  1   CH  1   NT  Ab           9/20   voff=80
+BA   20   CR    2+7/12   TR  1   CH  1   NT  Ab-       173/480   voff=80
+
+BA   21   CR    13/240   TR  1   CH  1   NT  D-          11/12   voff=80
+BA   21   CR      1/12   TR  1   CH  1   NT  Bb         2+7/12   voff=80
+BA   21   CR    53/480   TR  1   CH  1   NT  F           11/12   voff=80
+BA   21   CR    53/480   TR  1   CH  1   NT  Bb-         2+1/2   voff=80
+BA   21   CR  1+13/240   TR  1   CH  1   NT  Eb          11/12   voff=80
+BA   21   CR  1+53/480   TR  1   CH  1   NT  G-      1+253/480   voff=80
+BA   21   CR  2+13/240   TR  1   CH  1   NT  Db           7/12   voff=80
+
+BA   22   CR    13/480   TR  1   CH  1   NT  F            5/12   voff=80
+BA   22   CR    13/480   TR  1   CH  1   NT  C           1+1/4   voff=80
+BA   22   CR    13/480   TR  1   CH  1   NT  A-           9/20   voff=80
+BA   22   CR      7/12   TR  1   CH  1   NT  F           27/40   voff=80
+BA   22   CR   293/480   TR  1   CH  1   NT  A-          2+1/6   voff=80
+BA   22   CR    1+7/12   TR  1   CH  1   NT  C           1+1/6   voff=80
+BA   22   CR 1+293/480   TR  1   CH  1   NT  F           1+1/3   voff=80
+
+BA   23   CR    13/480   TR  1   CH  1   NT  Ab      1+173/480   voff=80
+BA   23   CR    13/480   TR  1   CH  1   NT  Eb-     1+133/480   voff=80
+BA   23   CR    13/240   TR  1   CH  1   NT  C       1+107/480   voff=80
+BA   23   CR    13/240   TR  1   CH  1   NT  Ab-     2+129/160   voff=80
+BA   23   CR     1+1/2   TR  1   CH  1   NT  Ab      1+173/480   voff=80
+BA   23   CR 1+253/480   TR  1   CH  1   NT  C       1+133/480   voff=80
+BA   23   CR    1+7/12   TR  1   CH  1   NT  Eb-         1+1/4   voff=80
+
+BA   24   CR      1/12   TR  1   CH  1   NT  D        2+71/160   voff=80
+BA   24   CR    53/480   TR  1   CH  1   NT  Bb          1+1/3   voff=80
+BA   24   CR     11/80   TR  1   CH  1   NT  F-      2+227/480   voff=80
+BA   24   CR     1+1/2   TR  1   CH  1   NT  Ab         1+1/12   voff=80
+BA   24   CR 2+111/160   TR  1   CH  1   NT  Bb            5/6   voff=80
+BA   24   CR 2+173/240   TR  1   CH  1   NT  Bb-       129/160   voff=80
+BA   24   CR     2+3/4   TR  1   CH  1   NT  F       1+111/160   voff=80
+BA   24   CR     2+3/4   TR  1   CH  1   NT  C-      1+111/160   voff=80
+
+BA   25   CR   253/480   TR  1   CH  1   NT  C         151/160   voff=80
+BA   25   CR   133/240   TR  1   CH  1   NT  C'        151/160   voff=80
+BA   25   CR 1+133/240   TR  1   CH  1   NT  Db-       307/480   voff=80
+BA   25   CR 1+293/480   TR  1   CH  1   NT  G        3+53/480   voff=80
+BA   25   CR   1+51/80   TR  1   CH  1   NT  Db'       253/480   voff=80
+BA   25   CR   1+51/80   TR  1   CH  1   NT  Db         89/160   voff=80
+BA   25   CR     2+1/4   TR  1   CH  1   NT  Eb-        2+5/12   voff=80
+BA   25   CR 2+133/480   TR  1   CH  1   NT  Eb'        2+5/12   voff=80
+BA   25   CR     2+1/3   TR  1   CH  1   NT  Eb         2+5/12   voff=80
+
+BA   26   CR 1+111/160   TR  1   CH  1   NT  C-           9/20   voff=80
+BA   26   CR     1+3/4   TR  1   CH  1   NT  F'           9/20   voff=80
+BA   26   CR     1+3/4   TR  1   CH  1   NT  F            9/20   voff=80
+BA   26   CR     1+3/4   TR  1   CH  1   NT  Bb       1+13/480   voff=80
+BA   26   CR     1+3/4   TR  1   CH  1   NT  Bb-             1   voff=80
+BA   26   CR     2+1/3   TR  1   CH  1   NT  G'           9/20   voff=80
+BA   26   CR   2+31/80   TR  1   CH  1   NT  G            9/20   voff=80
+BA   26   CR    2+5/12   TR  1   CH  1   NT  D-           9/20   voff=80
+
+BA   27   CR    13/480   TR  1   CH  1   NT  Ab          2+5/6   voff=80
+BA   27   CR    13/480   TR  1   CH  1   NT  Eb'         2+3/4   voff=80
+BA   27   CR    13/240   TR  1   CH  1   NT  Ab'         2+3/4   voff=80
+BA   27   CR    13/240   TR  1   CH  1   NT  C'          2+3/4   voff=80
+
+BA   28   CR    13/480   TR  1   CH  1   NT  Bb       1+71/160   voff=80
+BA   28   CR    13/240   TR  1   CH  1   NT  G'      1+187/480   voff=80
+BA   28   CR    13/240   TR  1   CH  1   NT  Eb'         1+1/3   voff=80
+BA   28   CR 1+253/480   TR  1   CH  1   NT  F'      1+173/480   voff=80
+BA   28   CR 1+133/240   TR  1   CH  1   NT  A           1+1/4   voff=80
+BA   28   CR 1+293/480   TR  1   CH  1   NT  C'          1+1/4   voff=80
+BA   28   CR   2+11/12   TR  1   CH  1   NT  Eb      1+413/480   voff=80
+BA   28   CR 2+233/240   TR  1   CH  1   NT  G       1+427/480   voff=80
+
+BA   29   CR         0   TR  1   CH  1   NT  Eb'       1+11/12   voff=80
+BA   29   CR    13/240   TR  1   CH  1   NT  Bb      2+427/480   voff=80
+BA   29   CR 1+151/160   TR  1   CH  1   NT  F           11/12   voff=80
+BA   29   CR 1+233/240   TR  1   CH  1   NT  F'        467/480   voff=80
+BA   29   CR 2+151/160   TR  1   CH  1   NT  Eb'       2+9/160   voff=80
+
+BA   30   CR         0   TR  1   CH  1   NT  Eb        1+11/12   voff=80
+BA   30   CR    13/480   TR  1   CH  1   NT  G           1+5/6   voff=80
+BA   30   CR    13/240   TR  1   CH  1   NT  Bb      1+129/160   voff=80
+BA   30   CR 1+413/480   TR  1   CH  1   NT  Db'         1+2/3   voff=80
+BA   30   CR 1+413/480   TR  1   CH  1   NT  Db         1+7/12   voff=80
+BA   30   CR   1+71/80   TR  1   CH  1   NT  F          1+7/12   voff=80
+BA   30   CR   1+71/80   TR  1   CH  1   NT  Ab        2+9/160   voff=80
+
+BA   31   CR   113/240   TR  1   CH  1   NT  C          89/160   voff=80
+BA   31   CR   133/240   TR  1   CH  1   NT  C'        227/480   voff=80
+BA   31   CR         1   TR  1   CH  1   NT  Bb          1+1/3   voff=80
+BA   31   CR  1+13/480   TR  1   CH  1   NT  Bb-         1+1/3   voff=80
+BA   31   CR    1+1/12   TR  1   CH  1   NT  D           1+1/6   voff=80
+BA   31   CR    1+1/12   TR  1   CH  1   NT  F        1+31/160   voff=80
+BA   31   CR 2+133/240   TR  1   CH  1   NT  Ab         71/160   voff=80
+BA   31   CR 2+293/480   TR  1   CH  1   NT  Ab-       173/480   voff=80
+BA   31   CR 2+293/480   TR  1   CH  1   NT  Eb            5/6   voff=80
+
+BA   32   CR         0   TR  1   CH  1   NT  Bb-          5/12   voff=80
+BA   32   CR     11/80   TR  1   CH  1   NT  Bb        187/480   voff=80
+BA   32   CR       2/3   TR  1   CH  1   NT  C'          2+5/6   voff=80
+BA   32   CR   111/160   TR  1   CH  1   NT  Ab          2+5/6   voff=80
+BA   32   CR   111/160   TR  1   CH  1   NT  Ab-         2+5/6   voff=80
+BA   32   CR   111/160   TR  1   CH  1   NT  Eb-         2+5/6   voff=80
+BA   32   CR   173/240   TR  1   CH  1   NT  Eb      2+427/480   voff=80
+BA   32   CR   373/480   TR  1   CH  1   NT  C           2+5/6   voff=80
+
+BA   33   CR     51/80   TR  1   CH  1   NT  Bb-          5/12   voff=80
+BA   33   CR   173/240   TR  1   CH  1   NT  Bb           5/12   voff=80
+BA   33   CR     1+1/6   TR  1   CH  1   NT  Bb        173/480   voff=80
+BA   33   CR     1+1/6   TR  1   CH  1   NT  Bb-           1/3   voff=80
+BA   33   CR     1+2/3   TR  1   CH  1   NT  Eb'      1+31/160   voff=80
+BA   33   CR 1+173/240   TR  1   CH  1   NT  Eb       1+67/480   voff=80
+BA   33   CR 1+173/240   TR  1   CH  1   NT  Bb-      1+67/480   voff=80
+BA   33   CR 1+373/480   TR  1   CH  1   NT  Eb-        1+1/12   voff=80
+
+BA   34   CR    13/480   TR  1   CH  1   NT  Eb'         1+1/2   voff=80
+BA   34   CR    13/480   TR  1   CH  1   NT  Eb          1+1/2   voff=80
+BA   34   CR    13/480   TR  1   CH  1   NT  Eb-         1+1/2   voff=80
+BA   34   CR    13/240   TR  1   CH  1   NT  Bb-        1+5/12   voff=80
+BA   34   CR 1+293/480   TR  1   CH  1   NT  F'        173/480   voff=80
+BA   34   CR 1+293/480   TR  1   CH  1   NT  F             1/3   voff=80
+BA   34   CR   1+51/80   TR  1   CH  1   NT  C          49/160   voff=80
+BA   34   CR  2+13/480   TR  1   CH  1   NT  Eb'          9/10   voff=80
+BA   34   CR  2+13/240   TR  1   CH  1   NT  Eb           9/10   voff=80
+BA   34   CR  2+13/240   TR  1   CH  1   NT  Bb-           5/6   voff=80
+BA   34   CR    2+1/12   TR  1   CH  1   NT  Eb-           5/6   voff=80
+
+BA   35   CR    13/240   TR  1   CH  1   NT  Db'       187/480   voff=80
+BA   35   CR      1/12   TR  1   CH  1   NT  Db        133/480   voff=80
+BA   35   CR      1/12   TR  1   CH  1   NT  F-            1/4   voff=80
+BA   35   CR   133/240   TR  1   CH  1   NT  Eb      2+187/480   voff=80
+BA   35   CR   133/240   TR  1   CH  1   NT  Eb-         2+1/3   voff=80
+BA   35   CR      7/12   TR  1   CH  1   NT  Eb'         2+1/3   voff=80
+BA   35   CR      7/12   TR  1   CH  1   NT  Bb-         2+1/3   voff=80
+
+BA   36   CR    53/480   TR  1   CH  1   NT  Eb-           1/3   voff=80
+BA   36   CR    53/480   TR  1   CH  1   NT  Eb           5/12   voff=80
+BA   36   CR   133/240   TR  1   CH  1   NT  F         187/480   voff=80
+BA   36   CR      7/12   TR  1   CH  1   NT  F-            1/3   voff=80
+BA   36   CR         1   TR  1   CH  1   NT  Db           5/12   voff=80
+BA   36   CR         1   TR  1   CH  1   NT  Db-           1/3   voff=80
+BA   36   CR 1+133/240   TR  1   CH  1   NT  F             1/3   voff=80
+BA   36   CR 1+133/240   TR  1   CH  1   NT  F-            1/3   voff=80
+BA   36   CR  2+13/240   TR  1   CH  1   NT  Eb           9/10   voff=80
+BA   36   CR  2+13/240   TR  1   CH  1   NT  Eb-          9/10   voff=80
+
+BA   37   CR    13/240   TR  1   CH  1   NT  Bb--         7/12   voff=80
+BA   37   CR    53/480   TR  1   CH  1   NT  Bb-           1/2   voff=80
+BA   37   CR   173/240   TR  1   CH  1   NT  Bb-     2+107/480   voff=80
+BA   37   CR   193/240   TR  1   CH  1   NT  Bb--       2+1/12   voff=80
+
+BA   38   CR    53/480   TR  1   CH  1   NT  Eb-           1/3   voff=80
+BA   38   CR    53/480   TR  1   CH  1   NT  Eb           5/12   voff=80
+BA   38   CR   133/240   TR  1   CH  1   NT  F         187/480   voff=80
+BA   38   CR      7/12   TR  1   CH  1   NT  F-            1/3   voff=80
+BA   38   CR         1   TR  1   CH  1   NT  Db           5/12   voff=80
+BA   38   CR         1   TR  1   CH  1   NT  Db-           1/3   voff=80
+BA   38   CR 1+133/240   TR  1   CH  1   NT  F             1/3   voff=80
+BA   38   CR 1+133/240   TR  1   CH  1   NT  F-            1/3   voff=80
+BA   38   CR  2+13/240   TR  1   CH  1   NT  Eb           9/10   voff=80
+BA   38   CR  2+13/240   TR  1   CH  1   NT  Eb-          9/10   voff=80
+
+BA   39   CR         0   TR  1   CH  1   NT  Bb-       151/160   voff=80
+BA   39   CR      1/12   TR  1   CH  1   NT  Eb           9/10   voff=80
+BA   39   CR    53/480   TR  1   CH  1   NT  Eb-          9/10   voff=80
+BA   39   CR   233/240   TR  1   CH  1   NT  F            9/10   voff=80
+BA   39   CR   233/240   TR  1   CH  1   NT  A-        427/480   voff=80
+BA   39   CR  1+13/480   TR  1   CH  1   NT  F-           9/10   voff=80
+BA   39   CR         2   TR  1   CH  1   NT  Ab        3+11/12   voff=80
+BA   39   CR    2+1/12   TR  1   CH  1   NT  C           3+5/6   voff=80
+BA   39   CR    2+1/12   TR  1   CH  1   NT  Eb-     3+413/480   voff=80
+
+BA   40   CR 2+151/160   TR  1   CH 16   End of track
+# Successfully parsed
+# Duration = 47.9775 seconds

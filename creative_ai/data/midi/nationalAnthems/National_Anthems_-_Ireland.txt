@@ -1,0 +1,967 @@
+format=1 tracks=12 division=480
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &54   96 0 0 0 0
+BA    1   CR         0   TR  0   CH 16   Tempo 75.46
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  1   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR  1   CH 16   Text type 3: "trumpet(s)"
+BA    1   CR         0   TR  1   CH  1   NT  Bb        1+29/80   von=103
+BA    1   CR         0   TR  1   CH  1   ST &B0 &01 &00
+BA    1   CR         0   TR  1   CH  1   Channel volume 127
+BA    1   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 57
+BA    1   CR         0   TR  2   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR  2   CH 16   Text type 3: "fr. horn(s)"
+BA    1   CR         0   TR  2   CH  2   NT  F       1+149/480   von=71   voff=67
+BA    1   CR         0   TR  2   CH  2   ST &B1 &01 &00
+BA    1   CR         0   TR  2   CH  2   Channel volume 127
+BA    1   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 61
+BA    1   CR         0   TR  3   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR  3   CH 16   Text type 3: "trombone(s)"
+BA    1   CR         0   TR  3   CH  3   NT  Bb--        13/24   von=98   voff=29
+BA    1   CR         0   TR  3   CH  3   ST &B2 &01 &00
+BA    1   CR         0   TR  3   CH  3   Channel volume 120
+BA    1   CR         0   TR  3   CH  3   ST &B2 &40 &00
+BA    1   CR         0   TR  3   CH  3   Instrument 58
+BA    1   CR         0   TR  4   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR  4   CH 16   Text type 3: "tuba(s)"
+BA    1   CR         0   TR  4   CH  4   NT  Bb---       21/32   von=111   voff=73
+BA    1   CR         0   TR  4   CH  4   ST &B3 &01 &00
+BA    1   CR         0   TR  4   CH  4   Channel volume 116
+BA    1   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    1   CR         0   TR  4   CH  4   Instrument 59
+BA    1   CR         0   TR  5   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR  5   CH 16   Text type 3: "strings (hi)"
+BA    1   CR         0   TR  5   CH  5   NT  Bb        1+41/96   von=90   voff=59
+BA    1   CR         0   TR  5   CH  5   ST &B4 &01 &00
+BA    1   CR         0   TR  5   CH  5   Channel volume 127
+BA    1   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    1   CR         0   TR  5   CH  5   Instrument 49
+BA    1   CR         0   TR  6   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR  6   CH 16   Text type 3: "strings (mid)"
+BA    1   CR         0   TR  6   CH  6   NT  F       3+229/240   von=68
+BA    1   CR         0   TR  6   CH  6   ST &B5 &01 &00
+BA    1   CR         0   TR  6   CH  6   NT  Bb-        1+9/20   von=65   voff=73
+BA    1   CR         0   TR  6   CH  6   Channel volume 127
+BA    1   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    1   CR         0   TR  6   CH  6   Instrument 50
+BA    1   CR         0   TR  7   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR  7   CH 16   Text type 3: "strings (bass)"
+BA    1   CR         0   TR  7   CH  7   NT  Bb---       35/48   von=103   voff=34
+BA    1   CR         0   TR  7   CH  7   ST &B6 &01 &00
+BA    1   CR         0   TR  7   CH  7   Channel volume 127
+BA    1   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    1   CR         0   TR  7   CH  7   Instrument 49
+BA    1   CR         0   TR  8   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR  8   CH 16   Text type 3: "harp"
+BA    1   CR         0   TR  8   CH  8   ST &B7 &01 &00
+BA    1   CR         0   TR  8   CH  8   Channel volume 76
+BA    1   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    1   CR         0   TR  8   CH  8   Instrument 47
+BA    1   CR         0   TR  9   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR  9   CH 16   Text type 3: "timpani"
+BA    1   CR         0   TR  9   CH  9   ST &B8 &01 &00
+BA    1   CR         0   TR  9   CH  9   Channel volume 102
+BA    1   CR         0   TR  9   CH  9   ST &B8 &40 &00
+BA    1   CR         0   TR  9   CH  9   Instrument 48
+BA    1   CR         0   TR 10   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR 10   CH 16   Text type 3: "cymbals"
+BA    1   CR         0   TR 10   CH 10   ST &B9 &01 &00
+BA    1   CR         0   TR 10   CH 10   Channel volume 56
+BA    1   CR         0   TR 10   CH 10   ST &B9 &40 &00
+BA    1   CR         0   TR 11   CH 16   Text type 4: "Sound Canvas"
+BA    1   CR         0   TR 11   CH 16   Text type 3: "piccolo"
+BA    1   CR     1/480   TR  1   CH  1   ST &B0 &5B &7F
+BA    1   CR     1/480   TR  1   CH  1   ST &B0 &5D &52
+BA    1   CR     1/480   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR     1/480   TR  1   CH  1   ST &B0 &0A &54
+BA    1   CR     1/480   TR  1   CH  1   ST &B0 &0B &7F
+BA    1   CR     1/480   TR  2   CH  2   ST &B1 &5B &7F
+BA    1   CR     1/480   TR  2   CH  2   ST &B1 &5D &2E
+BA    1   CR     1/480   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR     1/480   TR  2   CH  2   ST &B1 &0A &33
+BA    1   CR     1/480   TR  2   CH  2   ST &B1 &0B &7F
+BA    1   CR     1/480   TR  3   CH  3   ST &B2 &5B &7F
+BA    1   CR     1/480   TR  3   CH  3   ST &B2 &5D &4C
+BA    1   CR     1/480   TR  3   CH  3   ST &E2 &00 &40
+BA    1   CR     1/480   TR  3   CH  3   ST &B2 &0A &52
+BA    1   CR     1/480   TR  3   CH  3   ST &B2 &0B &7F
+BA    1   CR     1/480   TR  4   CH  4   ST &B3 &5B &7F
+BA    1   CR     1/480   TR  4   CH  4   ST &B3 &5D &2E
+BA    1   CR     1/480   TR  4   CH  4   ST &E3 &00 &40
+BA    1   CR     1/480   TR  4   CH  4   ST &B3 &0A &34
+BA    1   CR     1/480   TR  4   CH  4   ST &B3 &0B &7F
+BA    1   CR     1/480   TR  5   CH  5   ST &B4 &5B &7F
+BA    1   CR     1/480   TR  5   CH  5   ST &B4 &5D &46
+BA    1   CR     1/480   TR  5   CH  5   ST &E4 &00 &40
+BA    1   CR     1/480   TR  5   CH  5   ST &B4 &0A &34
+BA    1   CR     1/480   TR  5   CH  5   ST &B4 &0B &7F
+BA    1   CR     1/480   TR  6   CH  6   ST &B5 &5B &7F
+BA    1   CR     1/480   TR  6   CH  6   ST &B5 &5D &3E
+BA    1   CR     1/480   TR  6   CH  6   ST &E5 &00 &40
+BA    1   CR     1/480   TR  6   CH  6   ST &B5 &0A &5E
+BA    1   CR     1/480   TR  6   CH  6   ST &B5 &0B &7F
+BA    1   CR     1/480   TR  7   CH  7   ST &B6 &5B &7F
+BA    1   CR     1/480   TR  7   CH  7   ST &B6 &5D &66
+BA    1   CR     1/480   TR  7   CH  7   ST &E6 &00 &40
+BA    1   CR     1/480   TR  7   CH  7   ST &B6 &0A &5C
+BA    1   CR     1/480   TR  7   CH  7   ST &B6 &0B &7F
+BA    1   CR     1/480   TR  8   CH  8   ST &B7 &5B &7F
+BA    1   CR     1/480   TR  8   CH  8   ST &B7 &5D &1E
+BA    1   CR     1/480   TR  8   CH  8   ST &E7 &00 &40
+BA    1   CR     1/480   TR  8   CH  8   ST &B7 &0A &34
+BA    1   CR     1/480   TR  8   CH  8   ST &B7 &0B &7F
+BA    1   CR     1/480   TR  9   CH  9   ST &B8 &5B &7F
+BA    1   CR     1/480   TR  9   CH  9   ST &B8 &5D &00
+BA    1   CR     1/480   TR  9   CH  9   ST &E8 &00 &40
+BA    1   CR     1/480   TR  9   CH  9   ST &B8 &0A &45
+BA    1   CR     1/480   TR  9   CH  9   ST &B8 &0B &7F
+BA    1   CR     1/480   TR 10   CH 10   ST &B9 &5B &7F
+BA    1   CR     1/480   TR 10   CH 10   ST &B9 &5D &15
+BA    1   CR     1/480   TR 10   CH 10   ST &E9 &00 &40
+BA    1   CR     1/480   TR 10   CH 10   ST &B9 &0A &4B
+BA    1   CR     1/480   TR 10   CH 10   ST &B9 &0B &7F
+BA    1   CR     1/480   TR 11   CH 11   ST &BA &01 &00
+BA    1   CR     1/480   TR 11   CH 11   Channel volume 60
+BA    1   CR     1/480   TR 11   CH 11   ST &BA &40 &00
+BA    1   CR     1/480   TR 11   CH 11   Instrument 73
+BA    1   CR     1/480   TR 11   CH 11   ST &BA &0A &29
+BA    1   CR     1/480   TR 11   CH 11   ST &BA &0B &7F
+BA    1   CR     1/240   TR 11   CH 11   ST &BA &5B &7F
+BA    1   CR     1/240   TR 11   CH 11   ST &BA &5D &38
+BA    1   CR     1/240   TR 11   CH 11   ST &EA &00 &40
+BA    1   CR     1/160   TR  2   CH  2   NT  Bb-       191/240   von=77   voff=65
+BA    1   CR      1/80   TR  6   CH  6   NT  D        1+53/120   von=68   voff=57
+BA    1   CR     7/480   TR  2   CH  2   NT  D             3/4   von=71   voff=25
+BA    1   CR     7/480   TR  5   CH  5   NT  Bb'     1+187/480   von=71   voff=55
+BA    1   CR   113/160   TR  0   CH 16   Tempo 75.46
+BA    1   CR     14/15   TR  3   CH  3   NT  F-        277/480   voff=61
+BA    1   CR   159/160   TR  4   CH  4   NT  F--         31/40   von=115   voff=52
+BA    1   CR         1   TR  0   CH 16   Tempo 75.93009
+BA    1   CR    1+1/96   TR  7   CH  7   NT  F--         67/96   voff=15
+BA    1   CR    1+1/60   TR  2   CH  2   NT  Bb-       181/480   von=85   voff=54
+BA    1   CR  1+13/480   TR  2   CH  2   NT  D           13/32   von=77   voff=41
+BA    1   CR     1+1/8   TR  0   CH 16   Tempo 76.4
+BA    1   CR 1+101/240   TR  5   CH  5   NT  C''         43/80   von=85   voff=67
+BA    1   CR   1+13/30   TR  5   CH  5   NT  C'        121/240   von=79   voff=68
+BA    1   CR   1+43/96   TR  6   CH  6   NT  Eb        113/240   von=79   voff=75
+BA    1   CR   1+19/40   TR  2   CH  2   NT  Eb          21/80   voff=53
+BA    1   CR   1+47/96   TR  1   CH  1   NT  C'        199/480   von=98   voff=25
+BA    1   CR 1+241/480   TR  2   CH  2   NT  F          79/240   von=82   voff=61
+BA    1   CR   1+27/32   TR  0   CH 16   Tempo 76.8701
+BA    1   CR 1+149/160   TR  5   CH  5   NT  D'          29/30   von=77   voff=26
+BA    1   CR   1+14/15   TR  3   CH  3   NT  Bb--      281/480   von=95   voff=30
+BA    1   CR 1+451/480   TR  5   CH  5   NT  D''         39/40   von=74   voff=66
+BA    1   CR 1+227/240   TR  6   CH  6   NT  D         1+71/96   von=82   voff=1
+BA    1   CR 1+467/480   TR  7   CH  7   NT  Bb---       73/96   von=98   voff=25
+BA    1   CR 1+469/480   TR  1   CH  1   NT  D'          85/96   von=95   voff=24
+BA    1   CR 1+159/160   TR  4   CH  4   NT  Bb---     341/480   von=109   voff=58
+BA    1   CR  2+19/480   TR  2   CH  2   NT  Bb        397/480   von=57   voff=76
+BA    1   CR    2+1/20   TR  2   CH  2   NT  F         359/480   von=72   voff=48
+BA    1   CR  2+29/480   TR  2   CH  2   NT  D          89/120   von=69   voff=52
+BA    1   CR 2+121/240   TR  0   CH 16   Tempo 77.34
+BA    1   CR   2+71/80   TR  5   CH  5   NT  Bb        1+9/160   von=77   voff=36
+BA    1   CR    2+9/10   TR  5   CH  5   NT  Bb'        1+1/32   von=95   voff=52
+BA    1   CR   2+37/40   TR  3   CH  3   NT  F-        277/480   von=98   voff=26
+BA    1   CR   2+14/15   TR  0   CH 16   Tempo 77.81
+BA    1   CR   2+91/96   TR  2   CH  2   NT  F         139/160   von=74   voff=30
+BA    1   CR 2+153/160   TR  2   CH  2   NT  D         379/480   voff=9
+BA    1   CR 2+467/480   TR  4   CH  4   NT  F--         23/30   von=111   voff=30
+BA    1   CR 2+467/480   TR  7   CH  7   NT  F--       341/480   voff=14
+BA    1   CR   2+39/40   TR  1   CH  1   NT  Bb        223/240   von=98   voff=62
+BA    1   CR  3+77/240   TR  0   CH 16   Tempo 78.28
+BA    1   CR 3+427/480   TR  6   CH  6   NT  Bb-     3+221/240   von=77   voff=37
+BA    1   CR   3+73/80   TR  6   CH  6   NT  D         2+31/32   von=68   voff=21
+BA    1   CR 3+223/240   TR  5   CH  5   NT  F       2+379/480   voff=45
+BA    1   CR   3+19/20   TR  5   CH  5   NT  F'      2+407/480   von=71   voff=34
+BA    1   CR 3+457/480   TR  2   CH  2   NT  Bb-     1+179/240   von=90   voff=47
+BA    1   CR   3+23/24   TR  3   CH  3   NT  Bb--         7/12   von=93   voff=46
+BA    1   CR   3+29/30   TR  2   CH  2   NT  D          2+3/20   von=75   voff=42
+BA    1   CR   3+31/32   TR  7   CH  7   NT  Bb---     377/480   von=95
+BA    1   CR   3+39/40   TR  4   CH  4   NT  Bb---     367/480   voff=66
+BA    1   CR 3+119/120   TR  1   CH  1   NT  F         2+47/60   von=103   voff=22
+
+BA    2   CR      3/16   TR  0   CH 16   Tempo 78.7501
+BA    2   CR   149/160   TR  3   CH  3   NT  F-           9/16   von=98   voff=37
+BA    2   CR   467/480   TR  7   CH  7   NT  F--         29/40   von=98   voff=22
+BA    2   CR         1   TR  4   CH  4   NT  F--       191/240   von=115   voff=67
+BA    2   CR 1+343/480   TR  0   CH 16   Tempo 79.21
+BA    2   CR   1+23/24   TR  3   CH  3   NT  Bb--        11/20   von=93   voff=29
+BA    2   CR   1+77/80   TR  7   CH  7   NT  Bb---       37/48   von=93   voff=24
+BA    2   CR 1+119/120   TR  2   CH  2   NT  Bb-       187/240   von=95   voff=54
+BA    2   CR    2+1/96   TR  4   CH  4   NT  Bb---       11/15   von=106   voff=49
+BA    2   CR 2+379/480   TR  0   CH 16   Tempo 79.68
+BA    2   CR 2+457/480   TR  3   CH  3   NT  D-        109/160   von=79   voff=21
+BA    2   CR   2+39/40   TR  7   CH  7   NT  D--         15/16   von=90   voff=22
+BA    2   CR 2+157/160   TR  5   CH  5   NT  F           47/48   von=85   voff=58
+BA    2   CR 2+473/480   TR  2   CH  2   NT  Bb-         27/40   von=90   voff=33
+BA    2   CR 2+119/120   TR  4   CH  4   NT  D--       383/480   von=103   voff=31
+BA    2   CR 2+239/240   TR  5   CH  5   NT  F'        1+1/480   von=77   voff=48
+BA    2   CR   3+1/120   TR  1   CH  1   NT  F           43/48   voff=24
+BA    2   CR 3+281/480   TR  0   CH 16   Tempo 80.15
+BA    2   CR 3+129/160   TR  0   CH 16   Tempo 80.62
+BA    2   CR 3+457/480   TR  2   CH  2   NT  Bb-      1+43/160   von=85   voff=57
+BA    2   CR 3+153/160   TR  2   CH  2   NT  Eb         1+7/20   von=69   voff=63
+BA    2   CR   3+23/24   TR  5   CH  5   NT  G       1+167/480   von=90   voff=51
+BA    2   CR   3+77/80   TR  5   CH  5   NT  G'        1+11/30   von=77   voff=67
+BA    2   CR   3+29/30   TR  6   CH  6   NT  Eb      1+229/240   von=72   voff=49
+BA    2   CR 3+467/480   TR  3   CH  3   NT  Eb-         29/48   von=93   voff=1
+BA    2   CR 3+469/480   TR  4   CH  4   NT  Eb--      121/160   von=106   voff=57
+BA    2   CR 3+473/480   TR  6   CH  6   NT  Bb-       1+61/96   von=71   voff=1
+BA    2   CR 3+119/120   TR  7   CH  7   NT  Eb--        49/60   von=98   voff=23
+BA    2   CR 3+239/240   TR  1   CH  1   NT  G        1+53/160   voff=75
+
+BA    3   CR    77/240   TR  0   CH 16   Tempo 81.0901
+BA    3   CR   187/480   TR  0   CH 16   Tempo 81.5601
+BA    3   CR     15/16   TR  3   CH  3   NT  Bb--       77/120   von=90   voff=21
+BA    3   CR   229/240   TR  7   CH  7   NT  Bb---     383/480   voff=13
+BA    3   CR         1   TR  4   CH  4   NT  Bb---     187/240   von=109   voff=30
+BA    3   CR  1+97/480   TR  0   CH 16   Tempo 81.0901
+BA    3   CR   1+15/32   TR  2   CH  2   NT  Eb          13/30   von=71   voff=46
+BA    3   CR 1+113/240   TR  2   CH  2   NT  Bb-         35/96   von=85   voff=28
+BA    3   CR 1+229/480   TR  1   CH  1   NT  G           17/40   von=101   voff=38
+BA    3   CR   1+29/60   TR  5   CH  5   NT  G'           8/15   voff=37
+BA    3   CR 1+233/480   TR  5   CH  5   NT  G          87/160   von=98   voff=30
+BA    3   CR   1+19/20   TR  6   CH  6   NT  Bb-         43/60   von=77   voff=26
+BA    3   CR   1+23/24   TR  3   CH  3   NT  Eb-       271/480   von=93   voff=36
+BA    3   CR   1+23/24   TR  6   CH  6   NT  G-       1+13/120   von=51   voff=56
+BA    3   CR   1+29/30   TR  7   CH  7   NT  Eb--      301/480   voff=25
+BA    3   CR   1+79/80   TR  5   CH  5   NT  Eb        467/480   von=78   voff=44
+BA    3   CR   1+95/96   TR  1   CH  1   NT  Eb          19/20   von=103   voff=52
+BA    3   CR 1+119/120   TR  4   CH  4   NT  Eb--      197/240   voff=18
+BA    3   CR    2+1/40   TR  5   CH  5   NT  Eb'         11/12   von=68   voff=53
+BA    3   CR   2+7/240   TR  2   CH  2   NT  Bb-       323/480   von=90   voff=12
+BA    3   CR    2+1/32   TR  2   CH  2   NT  G-        383/480   von=65   voff=19
+BA    3   CR   2+73/80   TR  5   CH  5   NT  G'         1+3/80   von=79
+BA    3   CR 2+147/160   TR  5   CH  5   NT  G         1+3/160   voff=34
+BA    3   CR   2+14/15   TR  3   CH  3   NT  Eb-       101/160   von=78   voff=1
+BA    3   CR 2+451/480   TR  7   CH  7   NT  Eb--     1+29/480   von=93   voff=30
+BA    3   CR 2+229/240   TR  2   CH  2   NT  Eb        463/480   von=78   voff=29
+BA    3   CR 2+463/480   TR  2   CH  2   NT  Bb-       377/480   von=79   voff=42
+BA    3   CR   2+31/32   TR  6   CH  6   NT  Eb         1+1/15   von=71   voff=55
+BA    3   CR   3+1/480   TR  1   CH  1   NT  G         443/480   von=101   voff=68
+BA    3   CR   3+1/480   TR  4   CH  4   NT  Eb---       59/80   von=106   voff=34
+BA    3   CR   3+1/480   TR  6   CH  6   NT  Bb-         35/48   von=57   voff=45
+BA    3   CR 3+451/480   TR  5   CH  5   NT  F         1+47/60   von=75   voff=55
+BA    3   CR 3+227/240   TR  5   CH  5   NT  F'          1+5/6   von=74   voff=44
+BA    3   CR 3+463/480   TR  2   CH  2   NT  Bb-      1+91/120   von=77   voff=5
+BA    3   CR   3+31/32   TR  3   CH  3   NT  Bb--        23/40   von=101   voff=43
+BA    3   CR 3+469/480   TR  6   CH  6   NT  Bb-        3+9/16   von=68   voff=34
+BA    3   CR 3+157/160   TR  2   CH  2   NT  D       1+199/240   von=63   voff=37
+BA    3   CR 3+473/480   TR  1   CH  1   NT  F         1+13/15   von=87   voff=61
+BA    3   CR 3+473/480   TR  6   CH  6   NT  D         3+51/80   von=61   voff=24
+BA    3   CR 3+159/160   TR  4   CH  4   NT  Bb---     371/480   von=111   voff=13
+BA    3   CR 3+479/480   TR  7   CH  7   NT  Bb---       57/80   von=101   voff=1
+
+BA    4   CR   229/240   TR  7   CH  7   NT  F---      187/240   von=93   voff=32
+BA    4   CR   233/240   TR  3   CH  3   NT  F-          55/96   voff=3
+BA    4   CR     47/48   TR  4   CH  4   NT  F---      129/160   von=98   voff=32
+BA    4   CR 1+431/480   TR  5   CH  5   NT  F          2+1/60   von=79   voff=21
+BA    4   CR 1+221/240   TR  5   CH  5   NT  F'        1+59/60   von=74   voff=1
+BA    4   CR   1+23/24   TR  7   CH  7   NT  Bb---       49/60   von=103   voff=56
+BA    4   CR 1+233/240   TR  2   CH  2   NT  D       1+253/480   von=74   voff=15
+BA    4   CR 1+467/480   TR  2   CH  2   NT  Bb-      1+87/160   von=72   voff=41
+BA    4   CR   1+59/60   TR  1   CH  1   NT  F        1+89/120   von=79   voff=3
+BA    4   CR   1+95/96   TR  4   CH  4   NT  Bb---     181/240   von=115   voff=73
+BA    4   CR 1+119/120   TR  3   CH  3   NT  Bb--      121/240   von=93   voff=55
+BA    4   CR   2+33/80   TR  0   CH 16   Tempo 81.5601
+BA    4   CR   2+15/16   TR  7   CH  7   NT  A---      181/240   voff=31
+BA    4   CR 2+233/240   TR  3   CH  3   NT  A--       263/480   von=98   voff=1
+BA    4   CR         3   TR  4   CH  4   NT  A---        31/40   von=111   voff=43
+BA    4   CR 3+221/240   TR  6   CH  6   NT  Bb-        2+1/40   von=79   voff=56
+BA    4   CR   3+19/20   TR  6   CH  6   NT  D       1+353/480   von=68   voff=12
+BA    4   CR 3+457/480   TR  6   CH  6   NT  G          2+1/10   von=71   voff=52
+BA    4   CR   3+23/24   TR  7   CH  7   NT  G---     2+13/240   von=95   voff=76
+BA    4   CR   3+47/48   TR  5   CH  5   NT  Bb         2+1/60   von=98   voff=1
+BA    4   CR 3+157/160   TR  5   CH  5   NT  Bb'      2+11/480   von=85   voff=21
+BA    4   CR   3+59/60   TR  1   CH  1   NT  Bb      1+421/480   von=103   voff=44
+BA    4   CR   3+79/80   TR  2   CH  2   NT  Bb-      1+83/120   von=79   voff=44
+BA    4   CR   3+95/96   TR  4   CH  4   NT  G---      1+89/96   von=109   voff=66
+BA    4   CR 3+159/160   TR  3   CH  3   NT  G--       1+17/20   von=85   voff=1
+BA    4   CR 3+239/240   TR  2   CH  2   NT  G       1+391/480   von=74   voff=45
+
+BA    5   CR     1/160   TR  2   CH  2   NT  D         1+17/30   voff=1
+BA    5   CR   1+91/96   TR  2   CH  2   NT  F#        2+7/240   von=85   voff=44
+BA    5   CR   1+23/24   TR  2   CH  2   NT  D        1+11/480   voff=65
+BA    5   CR   1+31/32   TR  5   CH  5   NT  A'         2+1/20   von=75   voff=47
+BA    5   CR   1+39/40   TR  5   CH  5   NT  A         1+79/80   von=82   voff=1
+BA    5   CR 1+157/160   TR  4   CH  4   NT  D--     1+181/240   voff=36
+BA    5   CR   1+59/60   TR  1   CH  1   NT  A       1+397/480   von=101   voff=1
+BA    5   CR         2   TR  3   CH  3   NT  D-        1+53/96   von=74   voff=5
+BA    5   CR    2+1/96   TR  6   CH  6   NT  F#              2   von=85   voff=43
+BA    5   CR    2+1/96   TR  7   CH  7   NT  D--     1+123/160   von=90   voff=11
+BA    5   CR    2+1/40   TR  6   CH  6   NT  D           14/15   von=68   voff=46
+BA    5   CR  2+89/480   TR  0   CH 16   Tempo 82.0301
+BA    5   CR   2+91/96   TR  6   CH  6   NT  C        1+19/480   von=66   voff=1
+BA    5   CR 2+233/240   TR  2   CH  2   NT  C         233/240   von=79   voff=37
+BA    5   CR 3+329/480   TR  0   CH 16   Tempo 82.5001
+BA    5   CR 3+443/480   TR  3   CH  3   NT  G--       137/160   von=82   voff=1
+BA    5   CR   3+23/24   TR  2   CH  2   NT  Bb-     1+359/480   voff=1
+BA    5   CR   3+77/80   TR  2   CH  2   NT  D       2+187/240   voff=27
+BA    5   CR 3+467/480   TR  6   CH  6   NT  Bb-     2+137/160   von=74   voff=74
+BA    5   CR 3+157/160   TR  1   CH  1   NT  G       2+437/480   voff=36
+BA    5   CR 3+473/480   TR  4   CH  4   NT  G---       89/120   voff=44
+BA    5   CR 3+119/120   TR  5   CH  5   NT  G       2+383/480   von=93   voff=16
+BA    5   CR 3+239/240   TR  5   CH  5   NT  G'      2+373/480   von=82   voff=1
+BA    5   CR 3+239/240   TR  7   CH  7   NT  G---      2+31/40   von=98   voff=44
+
+BA    6   CR     1/480   TR  6   CH  6   NT  D       2+193/240   von=65   voff=42
+BA    6   CR     23/24   TR  3   CH  3   NT  D-        149/160   von=85   voff=7
+BA    6   CR     29/30   TR  4   CH  4   NT  D--         83/96   von=103   voff=1
+BA    6   CR   1+29/48   TR  0   CH 16   Tempo 82.96
+BA    6   CR   1+91/96   TR  2   CH  2   NT  Bb-         63/80   von=85   voff=34
+BA    6   CR 1+461/480   TR  3   CH  3   NT  G-          65/96   von=66   voff=28
+BA    6   CR 1+473/480   TR  4   CH  4   NT  G--       379/480   von=79   voff=1
+BA    6   CR   2+29/80   TR  0   CH 16   Tempo 83.4301
+BA    6   CR 2+457/480   TR  5   CH  5   NT  A         241/480   von=95   voff=55
+BA    6   CR   2+23/24   TR  2   CH  2   NT  Bb-         29/30   voff=50
+BA    6   CR   2+23/24   TR  3   CH  3   NT  G-          63/80   von=77   voff=1
+BA    6   CR 2+461/480   TR  5   CH  5   NT  A'        223/480   von=85   voff=33
+BA    6   CR   2+77/80   TR  6   CH  6   NT  Bb-       239/240   von=74   voff=37
+BA    6   CR   2+29/30   TR  2   CH  2   NT  D            9/10   von=75   voff=1
+BA    6   CR   2+39/40   TR  4   CH  4   NT  G---      209/240   von=106   voff=25
+BA    6   CR   3+1/120   TR  7   CH  7   NT  G---      1+7/480   von=101   voff=10
+BA    6   CR    3+1/96   TR  6   CH  6   NT  D         469/480   von=71   voff=1
+BA    6   CR   3+7/480   TR  1   CH  1   NT  A            9/20   von=98   voff=32
+BA    6   CR 3+103/240   TR  5   CH  5   NT  Bb'         19/40   von=95   voff=43
+BA    6   CR 3+209/480   TR  5   CH  5   NT  Bb          43/80   von=103   voff=42
+BA    6   CR     3+1/2   TR  1   CH  1   NT  Bb        187/480   von=103   voff=67
+BA    6   CR   3+61/96   TR  0   CH 16   Tempo 82.96
+BA    6   CR 3+113/120   TR  5   CH  5   NT  C''       1+27/80   von=90   voff=32
+BA    6   CR 3+151/160   TR  6   CH  6   NT  C       1+371/480   voff=21
+BA    6   CR 3+457/480   TR  6   CH  6   NT  F          2+3/80   von=69   voff=24
+BA    6   CR   3+23/24   TR  2   CH  2   NT  C         1+59/80   voff=1
+BA    6   CR 3+461/480   TR  2   CH  2   NT  F          2+1/32   von=74   voff=37
+BA    6   CR 3+461/480   TR  5   CH  5   NT  C'        1+11/30   von=77   voff=15
+BA    6   CR 3+467/480   TR  3   CH  3   NT  A-      1+117/160   von=93   voff=20
+BA    6   CR 3+239/240   TR  1   CH  1   NT  C'       1+71/240   von=95   voff=28
+
+BA    7   CR         0   TR  4   CH  4   NT  C--       113/160   von=101   voff=1
+BA    7   CR    19/240   TR  7   CH  7   NT  C--         73/96   von=82   voff=30
+BA    7   CR     59/60   TR  4   CH  4   NT  G---       87/160   von=98   voff=66
+BA    7   CR   1+1/240   TR  7   CH  7   NT  C--       367/480   von=79   voff=35
+BA    7   CR 1+113/240   TR  5   CH  5   NT  D''         11/24   voff=58
+BA    7   CR 1+227/480   TR  5   CH  5   NT  D'        233/480   von=79   voff=42
+BA    7   CR   1+29/60   TR  1   CH  1   NT  D'          33/80   von=93   voff=59
+BA    7   CR   1+19/20   TR  6   CH  6   NT  C         1+19/30   voff=33
+BA    7   CR 1+229/240   TR  5   CH  5   NT  C''         59/60   von=85   voff=69
+BA    7   CR   1+23/24   TR  4   CH  4   NT  C--     1+373/480   voff=80
+BA    7   CR   1+29/30   TR  6   CH  6   NT  E         2+1/240   von=72   voff=29
+BA    7   CR 1+467/480   TR  1   CH  1   NT  C'        147/160   von=95   voff=12
+BA    7   CR 1+467/480   TR  2   CH  2   NT  C           37/48   von=75   voff=23
+BA    7   CR   1+39/40   TR  7   CH  7   NT  C--       1+13/16   von=77   voff=1
+BA    7   CR   1+47/48   TR  3   CH  3   NT  G-        461/480   von=85   voff=1
+BA    7   CR 1+157/160   TR  5   CH  5   NT  C'          91/96   von=79   voff=1
+BA    7   CR   1+59/60   TR  2   CH  2   NT  E         131/160   von=74   voff=54
+BA    7   CR   2+17/20   TR  0   CH 16   Tempo 82.5001
+BA    7   CR 2+457/480   TR  5   CH  5   NT  G'       1+17/480   von=69   voff=46
+BA    7   CR 2+461/480   TR  2   CH  2   NT  E           37/40   von=78   voff=1
+BA    7   CR   2+29/30   TR  2   CH  2   NT  C           11/16   von=72   voff=26
+BA    7   CR 2+233/240   TR  1   CH  1   NT  G         431/480   von=101   voff=31
+BA    7   CR 2+233/240   TR  5   CH  5   NT  G           23/24   von=98   voff=70
+BA    7   CR   3+1/160   TR  3   CH  3   NT  Bb-       211/240   von=77   voff=40
+BA    7   CR 3+227/240   TR  5   CH  5   NT  A       3+299/480   von=77   voff=40
+BA    7   CR   3+91/96   TR  5   CH  5   NT  A'          3+3/5   von=75   voff=16
+BA    7   CR 3+229/240   TR  6   CH  6   NT  F       1+269/480   von=74   voff=55
+BA    7   CR 3+463/480   TR  4   CH  4   NT  F--           4/5   von=115   voff=60
+BA    7   CR 3+463/480   TR  6   CH  6   NT  C         1+21/32   von=71   voff=7
+BA    7   CR   3+31/32   TR  2   CH  2   NT  F          1+9/20   von=78
+BA    7   CR 3+467/480   TR  1   CH  1   NT  A       3+263/480   von=98   voff=43
+BA    7   CR   3+39/40   TR  2   CH  2   NT  C        1+83/160   von=77   voff=32
+BA    7   CR 3+473/480   TR  7   CH  7   NT  F---        73/80   von=90   voff=1
+BA    7   CR   3+79/80   TR  3   CH  3   NT  F-            7/8   von=101   voff=27
+
+BA    8   CR   153/160   TR  3   CH  3   NT  C-          11/15   von=90   voff=13
+BA    8   CR     23/24   TR  7   CH  7   NT  C--       119/160   von=77   voff=13
+BA    8   CR   233/240   TR  4   CH  4   NT  C--       383/480   von=95   voff=73
+BA    8   CR  1+71/160   TR  2   CH  2   NT  Eb        241/480   von=98   voff=63
+BA    8   CR 1+233/480   TR  6   CH  6   NT  Eb         81/160   von=90   voff=58
+BA    8   CR 1+149/160   TR  3   CH  3   NT  F--     1+379/480   voff=41
+BA    8   CR   1+19/20   TR  6   CH  6   NT  A-         1+1/24   von=85   voff=62
+BA    8   CR 1+153/160   TR  2   CH  2   NT  A-          89/96   von=85   voff=49
+BA    8   CR 1+153/160   TR  7   CH  7   NT  F---    1+307/480   von=85   voff=17
+BA    8   CR   1+39/40   TR  4   CH  4   NT  F---    1+163/240   von=98   voff=34
+BA    8   CR   1+39/40   TR  6   CH  6   NT  D         1+1/480   von=77   voff=23
+BA    8   CR 1+157/160   TR  2   CH  2   NT  D           13/15   von=98   voff=1
+BA    8   CR    2+1/20   TR  0   CH 16   Tempo 82.0301
+BA    8   CR 2+143/160   TR  2   CH  2   NT  C           13/16   von=65   voff=1
+BA    8   CR 2+221/240   TR  2   CH  2   NT  Eb          14/15   von=90   voff=37
+BA    8   CR   2+77/80   TR  6   CH  6   NT  C         239/240   von=68   voff=28
+BA    8   CR   2+39/40   TR  6   CH  6   NT  Eb          73/80   von=77   voff=66
+BA    8   CR   3+11/30   TR  0   CH 16   Tempo 81.5601
+BA    8   CR   3+91/96   TR  5   CH  5   NT  Bb'      1+59/120   von=93   voff=38
+BA    8   CR 3+457/480   TR  6   CH  6   NT  F        4+13/240   von=71   voff=42
+BA    8   CR 3+153/160   TR  5   CH  5   NT  Bb        1+25/48   von=90   voff=75
+BA    8   CR 3+463/480   TR  6   CH  6   NT  Bb-     1+109/120   von=79   voff=49
+BA    8   CR   3+31/32   TR  6   CH  6   NT  D         1+15/32   von=74   voff=14
+BA    8   CR   3+31/32   TR  7   CH  7   NT  Bb---      91/120   von=98   voff=29
+BA    8   CR 3+233/240   TR  4   CH  4   NT  Bb---     281/480   von=109   voff=54
+BA    8   CR 3+159/160   TR  1   CH  1   NT  Bb       1+71/240   von=106   voff=49
+
+BA    9   CR         0   TR  2   CH  2   NT  Bb-     1+157/480   von=75   voff=55
+BA    9   CR     1/120   TR  3   CH  3   NT  Bb--      269/480   von=103   voff=48
+BA    9   CR      1/40   TR  2   CH  2   NT  D         347/480   von=72   voff=42
+BA    9   CR      1/32   TR  2   CH  2   NT  F         343/480   von=65   voff=41
+BA    9   CR   151/160   TR  2   CH  2   NT  F          79/240   von=66   voff=54
+BA    9   CR   461/480   TR  2   CH  2   NT  D          79/240   von=72   voff=31
+BA    9   CR   463/480   TR  4   CH  4   NT  F--       113/160   von=106   voff=15
+BA    9   CR     31/32   TR  7   CH  7   NT  F--       203/240   von=103   voff=1
+BA    9   CR   469/480   TR  3   CH  3   NT  F-          49/96   von=106   voff=60
+BA    9   CR   1+13/30   TR  2   CH  2   NT  Eb         27/160   von=77   voff=54
+BA    9   CR    1+7/16   TR  5   CH  5   NT  C'           8/15   von=74   voff=61
+BA    9   CR 1+107/240   TR  2   CH  2   NT  F          71/240   von=65   voff=38
+BA    9   CR 1+107/240   TR  5   CH  5   NT  C''        87/160   von=85   voff=60
+BA    9   CR   1+11/24   TR  6   CH  6   NT  Eb        221/480   von=93   voff=54
+BA    9   CR 1+113/240   TR  1   CH  1   NT  C'         59/160   von=98   voff=42
+BA    9   CR   1+89/96   TR  2   CH  2   NT  Bb            7/8   von=98   voff=69
+BA    9   CR   1+14/15   TR  2   CH  2   NT  F         389/480   von=77   voff=43
+BA    9   CR 1+457/480   TR  2   CH  2   NT  D             4/5   von=75   voff=47
+BA    9   CR 1+229/240   TR  5   CH  5   NT  D'         1+1/30   von=77   voff=28
+BA    9   CR 1+153/160   TR  1   CH  1   NT  D'        159/160   von=95   voff=1
+BA    9   CR 1+461/480   TR  3   CH  3   NT  Bb--        41/60   von=95   voff=15
+BA    9   CR   1+77/80   TR  5   CH  5   NT  D''       1+7/240   von=72   voff=71
+BA    9   CR   1+77/80   TR  6   CH  6   NT  D         1+77/96   von=78   voff=1
+BA    9   CR 1+157/160   TR  7   CH  7   NT  Bb---       77/96   von=98   voff=45
+BA    9   CR   1+59/60   TR  4   CH  4   NT  Bb---      97/160   voff=30
+BA    9   CR 2+433/480   TR  2   CH  2   NT  F           79/80   von=85   voff=13
+BA    9   CR   2+29/32   TR  2   CH  2   NT  D           11/20   von=79   voff=1
+BA    9   CR   2+19/20   TR  4   CH  4   NT  F--       163/240   von=109   voff=30
+BA    9   CR 2+463/480   TR  3   CH  3   NT  F-          27/40   voff=7
+BA    9   CR   2+31/32   TR  7   CH  7   NT  F--       389/480   von=103   voff=17
+BA    9   CR   2+47/48   TR  5   CH  5   NT  Bb        1+3/160   von=98   voff=4
+BA    9   CR   2+79/80   TR  1   CH  1   NT  Bb        407/480   von=103   voff=47
+BA    9   CR 2+119/120   TR  5   CH  5   NT  Bb'       233/240   von=93   voff=32
+BA    9   CR 3+217/240   TR  2   CH  2   NT  Bb-       1+43/60   von=85   voff=1
+BA    9   CR   3+15/16   TR  2   CH  2   NT  D       2+151/240   von=69   voff=1
+BA    9   CR   3+15/16   TR  3   CH  3   NT  Bb--       71/120   von=101   voff=58
+BA    9   CR   3+15/16   TR  5   CH  5   NT  F'      2+197/240   von=71   voff=29
+BA    9   CR   3+91/96   TR  5   CH  5   NT  F       2+347/480   von=87   voff=34
+BA    9   CR 3+461/480   TR  6   CH  6   NT  Bb-     1+101/160   von=77   voff=1
+BA    9   CR   3+77/80   TR  6   CH  6   NT  D       2+119/160   von=72   voff=1
+BA    9   CR 3+157/160   TR  4   CH  4   NT  Bb---       31/48   voff=63
+BA    9   CR 3+473/480   TR  1   CH  1   NT  F           2+3/4   von=90   voff=1
+
+BA   10   CR     7/480   TR  7   CH  7   NT  Bb---       71/96   von=101   voff=1
+BA   10   CR   443/480   TR  3   CH  3   NT  F-        259/480   von=98   voff=34
+BA   10   CR     31/32   TR  4   CH  4   NT  F--       103/160   von=111   voff=1
+BA   10   CR     47/48   TR  7   CH  7   NT  F--           3/4   von=95   voff=1
+BA   10   CR 1+107/120   TR  6   CH  6   NT  Bb-       1+41/48   von=68   voff=9
+BA   10   CR 1+439/480   TR  2   CH  2   NT  Bb-         49/60   von=98
+BA   10   CR 1+439/480   TR  3   CH  3   NT  Bb--      319/480   voff=24
+BA   10   CR 1+473/480   TR  4   CH  4   NT  Bb---     373/480   voff=61
+BA   10   CR   1+95/96   TR  7   CH  7   NT  Bb---     367/480   von=101   voff=6
+BA   10   CR 2+149/160   TR  5   CH  5   NT  F'       1+19/160   von=79   voff=58
+BA   10   CR 2+149/160   TR  5   CH  5   NT  F        1+11/240   von=93
+BA   10   CR 2+451/480   TR  6   CH  6   NT  D          1+9/80   von=65   voff=48
+BA   10   CR 2+457/480   TR  2   CH  2   NT  Bb-         79/96   von=71   voff=62
+BA   10   CR   2+23/24   TR  3   CH  3   NT  D-         89/120   voff=30
+BA   10   CR 2+469/480   TR  7   CH  7   NT  D--         69/80   von=85   voff=8
+BA   10   CR   2+79/80   TR  1   CH  1   NT  F          1+1/30   von=101   voff=21
+BA   10   CR 2+479/480   TR  4   CH  4   NT  D--         67/80   von=103   voff=1
+BA   10   CR 3+451/480   TR  6   CH  6   NT  Bb-      1+71/240   von=74   voff=62
+BA   10   CR 3+457/480   TR  2   CH  2   NT  Bb-     1+119/480   von=85   voff=56
+BA   10   CR   3+23/24   TR  7   CH  7   NT  Eb--      329/480   von=106   voff=6
+BA   10   CR 3+233/240   TR  2   CH  2   NT  Eb        1+23/80   von=77   voff=69
+BA   10   CR 3+233/240   TR  3   CH  3   NT  Eb-       169/240   voff=1
+BA   10   CR 3+469/480   TR  6   CH  6   NT  Eb        1+13/40   von=68   voff=51
+BA   10   CR 3+159/160   TR  4   CH  4   NT  Eb--        57/80   von=109   voff=66
+BA   10   CR 3+159/160   TR  5   CH  5   NT  G         1+13/40   von=85   voff=45
+
+BA   11   CR     1/160   TR  5   CH  5   NT  G'      1+151/480   von=78   voff=68
+BA   11   CR     7/480   TR  1   CH  1   NT  G       1+127/480   von=98   voff=71
+BA   11   CR    59/240   TR  0   CH 16   Tempo 81.0901
+BA   11   CR   449/480   TR  7   CH  7   NT  Bb---       43/60   von=98   voff=1
+BA   11   CR     29/30   TR  3   CH  3   NT  Bb--          2/3   voff=1
+BA   11   CR     59/60   TR  4   CH  4   NT  Bb---       59/80   von=106   voff=15
+BA   11   CR  1+67/160   TR  6   CH  6   NT  Bb-         29/80   von=77   voff=28
+BA   11   CR  1+67/160   TR  6   CH  6   NT  Eb        253/480   von=65   voff=37
+BA   11   CR   1+41/96   TR  2   CH  2   NT  Bb-          5/16   voff=41
+BA   11   CR 1+209/480   TR  2   CH  2   NT  Eb         47/120   voff=52
+BA   11   CR   1+11/24   TR  5   CH  5   NT  G'            1/2   voff=67
+BA   11   CR   1+15/32   TR  5   CH  5   NT  G           41/80   von=98   voff=42
+BA   11   CR   1+29/60   TR  1   CH  1   NT  G          41/120   von=106   voff=48
+BA   11   CR 1+449/480   TR  5   CH  5   NT  Eb          95/96   von=95   voff=57
+BA   11   CR   1+19/20   TR  2   CH  2   NT  Bb-       181/240   von=75   voff=43
+BA   11   CR 1+457/480   TR  5   CH  5   NT  Eb'             1   von=85   voff=61
+BA   11   CR 1+229/240   TR  3   CH  3   NT  Eb-        97/160   voff=36
+BA   11   CR 1+461/480   TR  6   CH  6   NT  Bb-       367/480   von=77   voff=29
+BA   11   CR 1+463/480   TR  6   CH  6   NT  G-        1+9/160   von=66   voff=59
+BA   11   CR   1+29/30   TR  2   CH  2   NT  G-        383/480   von=59   voff=39
+BA   11   CR   1+47/48   TR  4   CH  4   NT  Eb--        61/80   von=109
+BA   11   CR   1+47/48   TR  7   CH  7   NT  Eb--      331/480   von=93   voff=37
+BA   11   CR   1+79/80   TR  1   CH  1   NT  Eb          31/32   von=90   voff=54
+BA   11   CR   2+29/32   TR  5   CH  5   NT  G           15/16   voff=75
+BA   11   CR 2+221/240   TR  2   CH  2   NT  Bb-           3/4   von=77   voff=82
+BA   11   CR   2+89/96   TR  2   CH  2   NT  Eb          31/40   von=66   voff=73
+BA   11   CR 2+223/240   TR  5   CH  5   NT  G'        421/480   von=75   voff=57
+BA   11   CR 2+149/160   TR  3   CH  3   NT  Eb-        99/160   von=78   voff=65
+BA   11   CR   2+19/20   TR  7   CH  7   NT  Eb--        33/40   von=90   voff=4
+BA   11   CR 2+461/480   TR  4   CH  4   NT  Eb--        13/15   von=111   voff=85
+BA   11   CR   2+31/32   TR  6   CH  6   NT  Bb-         43/48   von=71   voff=82
+BA   11   CR 2+467/480   TR  6   CH  6   NT  Eb          89/96   von=65   voff=92
+BA   11   CR   3+1/240   TR  1   CH  1   NT  G         179/240   von=103   voff=1
+BA   11   CR   3+31/32   TR  7   CH  7   NT  Bb---     361/480   von=101   voff=1
+BA   11   CR 3+239/240   TR  1   CH  1   NT  F       1+107/120   von=93
+BA   11   CR 3+239/240   TR  4   CH  4   NT  Bb---       21/32   von=106   voff=29
+
+BA   12   CR         0   TR  2   CH  2   NT  D       1+373/480   von=75   voff=42
+BA   12   CR         0   TR  2   CH  2   NT  Bb-     1+117/160   von=77   voff=27
+BA   12   CR         0   TR  3   CH  3   NT  Bb--      277/480   von=106   voff=22
+BA   12   CR         0   TR  5   CH  5   NT  F'      1+127/160   von=90   voff=60
+BA   12   CR         0   TR  6   CH  6   NT  Bb-       1+13/16   von=77   voff=15
+BA   12   CR     1/160   TR  5   CH  5   NT  F           1+3/4   von=79   voff=48
+BA   12   CR      1/96   TR  6   CH  6   NT  D         2+57/80   von=71   voff=22
+BA   12   CR   227/240   TR  3   CH  3   NT  F-        353/480   von=101   voff=1
+BA   12   CR     95/96   TR  4   CH  4   NT  F--       347/480   von=111   voff=1
+BA   12   CR     95/96   TR  7   CH  7   NT  F---        85/96   von=90   voff=1
+BA   12   CR 1+109/120   TR  6   CH  6   NT  Bb-           5/6   von=37   voff=32
+BA   12   CR 1+221/240   TR  5   CH  5   NT  F'        141/160   von=82   voff=39
+BA   12   CR 1+149/160   TR  5   CH  5   NT  F           79/96   von=77   voff=51
+BA   12   CR 1+463/480   TR  2   CH  2   NT  Bb-         13/16   von=68   voff=21
+BA   12   CR   1+31/32   TR  2   CH  2   NT  D           25/32   von=72   voff=10
+BA   12   CR   1+31/32   TR  3   CH  3   NT  Bb--      289/480   von=85   voff=47
+BA   12   CR   1+95/96   TR  1   CH  1   NT  F         391/480   von=85   voff=62
+BA   12   CR   2+1/160   TR  4   CH  4   NT  Bb---     337/480   von=106   voff=49
+BA   12   CR  2+11/480   TR  7   CH  7   NT  Bb---       37/60   von=103   voff=39
+BA   12   CR   2+33/40   TR  0   CH 16   Tempo 81.5601
+BA   12   CR 2+443/480   TR  5   CH  5   NT  F        1+43/480   von=74   voff=65
+BA   12   CR   2+14/15   TR  5   CH  5   NT  F'       1+13/160   von=90   voff=30
+BA   12   CR 2+461/480   TR  6   CH  6   NT  G#-      1+19/480   von=101   voff=59
+BA   12   CR 2+463/480   TR  2   CH  2   NT  G#-       113/120   von=98   voff=33
+BA   12   CR   2+39/40   TR  3   CH  3   NT  Bb--       89/160   von=93   voff=49
+BA   12   CR   2+95/96   TR  2   CH  2   NT  D         373/480   von=78   voff=16
+BA   12   CR   2+95/96   TR  6   CH  6   NT  D         227/240   von=74   voff=8
+BA   12   CR   3+1/160   TR  4   CH  4   NT  Bb---     359/480   von=109   voff=46
+BA   12   CR   3+1/160   TR  7   CH  7   NT  Bb---     133/160   von=85   voff=1
+BA   12   CR    3+1/80   TR  1   CH  1   NT  F         153/160   von=101   voff=27
+BA   12   CR   3+29/30   TR  2   CH  2   NT  A-      1+103/120   von=77   voff=29
+BA   12   CR 3+467/480   TR  5   CH  5   NT  A         1+69/80   von=74   voff=1
+BA   12   CR 3+467/480   TR  5   CH  5   NT  A'         1+9/10   von=71   voff=43
+BA   12   CR   3+39/40   TR  2   CH  2   NT  F          1+9/10   von=74   voff=43
+BA   12   CR   3+59/60   TR  2   CH  2   NT  D       1+421/480   von=72   voff=1
+BA   12   CR 3+119/120   TR  3   CH  3   NT  D-      1+101/120   von=75   voff=56
+
+BA   13   CR         0   TR  1   CH  1   NT  A         1+23/30   von=98   voff=52
+BA   13   CR     1/120   TR  4   CH  4   NT  D--       1+31/40   von=106   voff=14
+BA   13   CR      1/96   TR  7   CH  7   NT  D--     1+403/480   von=71   voff=26
+BA   13   CR      1/32   TR  6   CH  6   NT  A-        3+11/12   voff=1
+BA   13   CR      1/32   TR  6   CH  6   NT  D        3+83/120   von=35   voff=1
+BA   13   CR    17/480   TR  6   CH  6   NT  F          4+1/60   von=68   voff=41
+BA   13   CR 1+463/480   TR  3   CH  3   NT  D-      1+111/160   von=87   voff=1
+BA   13   CR   1+31/32   TR  1   CH  1   NT  A       1+191/480
+BA   13   CR   1+47/48   TR  4   CH  4   NT  D--       1+73/96   voff=1
+BA   13   CR 1+157/160   TR  5   CH  5   NT  A'       1+47/120   von=79   voff=53
+BA   13   CR   1+59/60   TR  2   CH  2   NT  F         2+7/160   von=49   voff=12
+BA   13   CR 1+473/480   TR  2   CH  2   NT  A-      1+433/480   von=77   voff=1
+BA   13   CR   1+95/96   TR  5   CH  5   NT  A        1+47/120   von=85   voff=46
+BA   13   CR 1+119/120   TR  2   CH  2   NT  D        1+79/120   von=66   voff=1
+BA   13   CR    2+1/48   TR  7   CH  7   NT  D--       2+7/240   von=75   voff=1
+BA   13   CR   3+23/48   TR  1   CH  1   NT  A           17/48
+BA   13   CR   3+39/80   TR  5   CH  5   NT  A           17/48   von=74   voff=42
+BA   13   CR 3+239/480   TR  5   CH  5   NT  A'         97/240   voff=54
+BA   13   CR   3+29/30   TR  3   CH  3   NT  F-        1+77/80   von=79   voff=38
+BA   13   CR 3+233/240   TR  1   CH  1   NT  A             5/6   von=95   voff=61
+BA   13   CR   3+79/80   TR  4   CH  4   NT  G---      1+69/80   voff=16
+BA   13   CR 3+119/120   TR  2   CH  2   NT  D           1+4/5   von=74   voff=41
+BA   13   CR 3+159/160   TR  6   CH  6   NT  Bb-     3+217/240   von=65   voff=5
+
+BA   14   CR     1/480   TR  2   CH  2   NT  Bb-       1+11/15   voff=57
+BA   14   CR     1/480   TR  5   CH  5   NT  A         409/480   von=85   voff=35
+BA   14   CR     1/240   TR  6   CH  6   NT  D       2+227/240   von=72   voff=53
+BA   14   CR      1/80   TR  5   CH  5   NT  A'          17/20   von=77   voff=49
+BA   14   CR     3/160   TR  7   CH  7   NT  G---    1+427/480   von=74   voff=62
+BA   14   CR     77/80   TR  1   CH  1   NT  A         413/480   von=98   voff=22
+BA   14   CR     39/40   TR  5   CH  5   NT  A         227/240   von=75   voff=1
+BA   14   CR   157/160   TR  5   CH  5   NT  A'        147/160   von=74   voff=40
+BA   14   CR   1+11/12   TR  5   CH  5   NT  G          1+9/20   von=78
+BA   14   CR 1+223/240   TR  5   CH  5   NT  G'         1+7/16   von=74   voff=63
+BA   14   CR 1+149/160   TR  7   CH  7   NT  C--       1+43/48   von=68   voff=18
+BA   14   CR 1+457/480   TR  2   CH  2   NT  Bb-       1+13/16   von=77   voff=12
+BA   14   CR 1+233/240   TR  1   CH  1   NT  G       1+197/480   von=103   voff=72
+BA   14   CR   1+39/40   TR  2   CH  2   NT  D           29/30   von=69   voff=42
+BA   14   CR   1+47/48   TR  4   CH  4   NT  C--       1+17/20   von=103   voff=1
+BA   14   CR 1+157/160   TR  3   CH  3   NT  E-      1+359/480   von=71   voff=11
+BA   14   CR  2+73/240   TR  0   CH 16   Tempo 81.0901
+BA   14   CR   2+15/16   TR  6   CH  6   NT  C        1+43/480   voff=57
+BA   14   CR 2+157/160   TR  2   CH  2   NT  C        1+17/480   von=71   voff=66
+BA   14   CR   3+23/48   TR  5   CH  5   NT  G            7/16   von=90   voff=41
+BA   14   CR 3+233/480   TR  5   CH  5   NT  G'         79/160   von=74   voff=53
+BA   14   CR 3+241/480   TR  1   CH  1   NT  G           37/96   voff=53
+BA   14   CR    3+7/12   TR  0   CH 16   Tempo 80.62
+BA   14   CR 3+229/240   TR  3   CH  3   NT  C-        111/160   von=82   voff=41
+BA   14   CR   3+29/30   TR  6   CH  6   NT  A-       2+79/160   von=82   voff=2
+BA   14   CR 3+467/480   TR  5   CH  5   NT  F         2+71/96   von=69   voff=26
+BA   14   CR 3+119/120   TR  5   CH  5   NT  F'        2+27/32   von=75   voff=1
+BA   14   CR 3+239/240   TR  2   CH  2   NT  A-          79/96   von=77   voff=57
+
+BA   15   CR         0   TR  4   CH  4   NT  F---    2+251/480   voff=33
+BA   15   CR      1/96   TR  7   CH  7   NT  F---    2+137/240   von=72   voff=13
+BA   15   CR      1/60   TR  1   CH  1   NT  F         2+29/40   von=93   voff=46
+BA   15   CR     31/32   TR  3   CH  3   NT  C-          77/96   von=71   voff=1
+BA   15   CR     39/40   TR  2   CH  2   NT  A-        377/480   von=75   voff=54
+BA   15   CR  1+11/480   TR  6   CH  6   NT  C            1/20   von=35   voff=35
+BA   15   CR  1+13/160   TR  0   CH 16   Tempo 81.0901
+BA   15   CR   1+11/12   TR  3   CH  3   NT  F-          85/96   von=98   voff=43
+BA   15   CR 1+227/240   TR  2   CH  2   NT  A-          11/16   von=77   voff=1
+BA   15   CR   1+77/80   TR  2   CH  2   NT  C          1+3/32   von=61   voff=48
+BA   15   CR 1+473/480   TR  6   CH  6   NT  C         1+11/16   von=69   voff=22
+BA   15   CR  2+47/160   TR  0   CH 16   Tempo 81.5601
+BA   15   CR 2+113/120   TR  3   CH  3   NT  C-          35/48   von=85   voff=39
+BA   15   CR   2+19/20   TR  6   CH  6   NT  A-         1+1/60   von=71   voff=33
+BA   15   CR 2+461/480   TR  2   CH  2   NT  A-        209/240   von=74   voff=1
+BA   15   CR 2+463/480   TR  1   CH  1   NT  F         443/480   von=98   voff=9
+BA   15   CR   2+59/60   TR  4   CH  4   NT  F---      349/480   von=101   voff=46
+BA   15   CR 2+119/120   TR  5   CH  5   NT  F         473/480   von=85   voff=32
+BA   15   CR    3+1/60   TR  7   CH  7   NT  F---      377/480   von=77   voff=1
+BA   15   CR   3+29/48   TR  0   CH 16   Tempo 81.0901
+BA   15   CR 3+449/480   TR  5   CH  5   NT  Eb       1+53/160   voff=57
+BA   15   CR 3+227/240   TR  6   CH  6   NT  Bb-       2+7/480   von=77   voff=44
+BA   15   CR   3+19/20   TR  7   CH  7   NT  G---      1+59/60   von=79   voff=55
+BA   15   CR   3+23/24   TR  3   CH  3   NT  Eb-     1+419/480   von=82   voff=16
+BA   15   CR   3+31/32   TR  1   CH  1   NT  Eb        1+11/32   voff=70
+BA   15   CR 3+467/480   TR  4   CH  4   NT  G---      1+33/40   von=106   voff=55
+
+BA   16   CR         0   TR  2   CH  2   NT  Bb-     1+373/480   von=90   voff=1
+BA   16   CR    47/480   TR  0   CH 16   Tempo 80.62
+BA   16   CR   1+43/96   TR  5   CH  5   NT  Eb          19/60   voff=56
+BA   16   CR   1+29/60   TR  1   CH  1   NT  Eb           7/20   von=93
+BA   16   CR 1+149/160   TR  5   CH  5   NT  Eb         61/120   von=95   voff=42
+BA   16   CR   1+19/20   TR  2   CH  2   NT  C         113/120   von=74   voff=28
+BA   16   CR 1+457/480   TR  3   CH  3   NT  F-          14/15   von=101   voff=23
+BA   16   CR 1+153/160   TR  6   CH  6   NT  C          1+1/80   von=65   voff=53
+BA   16   CR 1+463/480   TR  4   CH  4   NT  A---      139/160   voff=51
+BA   16   CR   1+29/30   TR  7   CH  7   NT  A---        79/80   von=75   voff=1
+BA   16   CR 1+119/120   TR  1   CH  1   NT  Eb        109/240   von=109   voff=48
+BA   16   CR 2+199/480   TR  5   CH  5   NT  C         253/480   von=90   voff=68
+BA   16   CR   2+19/40   TR  1   CH  1   NT  C         121/240   von=95   voff=42
+BA   16   CR 2+109/120   TR  5   CH  5   NT  D           49/96   von=87   voff=37
+BA   16   CR   2+89/96   TR  2   CH  2   NT  A-        437/480   von=75   voff=23
+BA   16   CR   2+77/80   TR  6   CH  6   NT  A-        473/480   von=71   voff=28
+BA   16   CR 2+463/480   TR  7   CH  7   NT  F---      1+1/120   von=78   voff=69
+BA   16   CR   2+29/30   TR  4   CH  4   NT  F---        59/60   von=103   voff=54
+BA   16   CR   2+31/32   TR  3   CH  3   NT  C-          79/96   von=74   voff=39
+BA   16   CR 2+119/120   TR  1   CH  1   NT  D         211/480   von=101   voff=30
+BA   16   CR     3+2/5   TR  5   CH  5   NT  Eb        253/480   von=85   voff=72
+BA   16   CR  3+77/160   TR  1   CH  1   NT  Eb           9/20   voff=68
+BA   16   CR   3+15/16   TR  5   CH  5   NT  F         1+19/40   von=78   voff=44
+BA   16   CR 3+151/160   TR  2   CH  2   NT  Bb-         91/96   von=85   voff=1
+BA   16   CR   3+19/20   TR  3   CH  3   NT  D-          79/96   von=75   voff=1
+BA   16   CR 3+463/480   TR  7   CH  7   NT  D--       151/160   von=85   voff=31
+BA   16   CR   3+95/96   TR  4   CH  4   NT  D--         13/16   voff=48
+BA   16   CR 3+479/480   TR  1   CH  1   NT  F          1+9/20   von=98   voff=48
+
+BA   17   CR         0   TR  6   CH  6   NT  Bb-       149/160   von=72   voff=57
+BA   17   CR   113/120   TR  3   CH  3   NT  C-            5/6   von=77   voff=8
+BA   17   CR     91/96   TR  2   CH  2   NT  A-        149/160   von=82   voff=11
+BA   17   CR     91/96   TR  7   CH  7   NT  C--        1+1/48   von=68   voff=25
+BA   17   CR   461/480   TR  6   CH  6   NT  A-        463/480   von=78   voff=58
+BA   17   CR   469/480   TR  4   CH  4   NT  C--       191/240   von=95   voff=69
+BA   17   CR 1+103/240   TR  5   CH  5   NT  G          89/160   von=87   voff=16
+BA   17   CR   1+11/24   TR  6   CH  6   NT  Eb           8/15   voff=76
+BA   17   CR 1+233/480   TR  1   CH  1   NT  G         221/480   voff=35
+BA   17   CR   1+15/16   TR  3   CH  3   NT  D-        1+17/24   von=85   voff=39
+BA   17   CR 1+113/120   TR  6   CH  6   NT  Bb-     1+463/480   von=74   voff=1
+BA   17   CR 1+457/480   TR  2   CH  2   NT  Bb-       1+11/15   von=85   voff=1
+BA   17   CR 1+229/240   TR  7   CH  7   NT  D--       1+19/24   von=74   voff=1
+BA   17   CR 1+157/160   TR  4   CH  4   NT  D--     1+329/480   von=103   voff=34
+BA   17   CR 1+157/160   TR  5   CH  5   NT  F          97/120   von=78   voff=40
+BA   17   CR 1+119/120   TR  1   CH  1   NT  F         401/480   voff=38
+BA   17   CR  2+17/480   TR  6   CH  6   NT  D           85/96   von=49   voff=5
+BA   17   CR   2+14/15   TR  6   CH  6   NT  F         1+1/120   von=77   voff=74
+BA   17   CR 2+461/480   TR  5   CH  5   NT  Bb          29/30   von=98   voff=32
+BA   17   CR 2+159/160   TR  1   CH  1   NT  Bb            7/8   von=103   voff=55
+BA   17   CR 3+227/240   TR  2   CH  2   NT  A-      1+173/240   voff=26
+BA   17   CR 3+227/240   TR  3   CH  3   NT  C#-       1+27/32   von=90   voff=3
+BA   17   CR   3+91/96   TR  2   CH  2   NT  E       1+119/120   von=68   voff=40
+BA   17   CR 3+457/480   TR  5   CH  5   NT  A        1+97/240   von=95   voff=30
+BA   17   CR 3+469/480   TR  1   CH  1   NT  A        1+67/160   von=95   voff=43
+BA   17   CR   3+95/96   TR  4   CH  4   NT  C#--    1+391/480   voff=62
+BA   17   CR 3+479/480   TR  7   CH  7   NT  C#--    1+391/480   von=75   voff=1
+
+BA   18   CR         0   TR  6   CH  6   NT  A-        3+37/40   von=74   voff=1
+BA   18   CR         0   TR  6   CH  6   NT  E       1+461/480   von=72   voff=61
+BA   18   CR 1+199/480   TR  5   CH  5   NT  G           39/80   voff=62
+BA   18   CR   1+39/80   TR  1   CH  1   NT  G           19/48   von=98   voff=51
+BA   18   CR   1+89/96   TR  3   CH  3   NT  C-        1+23/24   von=74   voff=1
+BA   18   CR   1+89/96   TR  5   CH  5   NT  A         151/160   voff=56
+BA   18   CR   1+89/96   TR  6   CH  6   NT  Eb         2+1/80   von=77   voff=54
+BA   18   CR 1+149/160   TR  2   CH  2   NT  A-      1+161/240   von=74   voff=1
+BA   18   CR 1+227/240   TR  2   CH  2   NT  Eb       2+37/480   von=85   voff=8
+BA   18   CR   1+39/40   TR  7   CH  7   NT  C--     1+461/480   von=72   voff=1
+BA   18   CR 1+469/480   TR  1   CH  1   NT  A         153/160   voff=1
+BA   18   CR 1+157/160   TR  4   CH  4   NT  C--     1+377/480   von=101   voff=42
+BA   18   CR   2+29/32   TR  5   CH  5   NT  G         1+7/480   von=98   voff=58
+BA   18   CR 2+157/160   TR  1   CH  1   NT  G         113/120   von=101   voff=36
+BA   18   CR   3+89/96   TR  6   CH  6   NT  C         2+13/80   von=74   voff=36
+BA   18   CR 3+223/240   TR  6   CH  6   NT  F-      1+229/240   von=77   voff=69
+BA   18   CR 3+457/480   TR  2   CH  2   NT  F-      1+463/480   von=75   voff=67
+BA   18   CR   3+29/30   TR  2   CH  2   NT  C          2+1/60   von=74   voff=59
+BA   18   CR 3+467/480   TR  4   CH  4   NT  A---     1+89/120   von=106   voff=61
+BA   18   CR 3+157/160   TR  1   CH  1   NT  F         149/160   voff=54
+BA   18   CR 3+473/480   TR  5   CH  5   NT  F         473/480   von=95   voff=38
+BA   18   CR 3+473/480   TR  7   CH  7   NT  A---    1+133/160   von=79   voff=1
+
+BA   19   CR      1/80   TR  3   CH  3   NT  A--       1+25/32   von=95   voff=1
+BA   19   CR     19/20   TR  5   CH  5   NT  Eb        233/240   von=98
+BA   19   CR     31/32   TR  1   CH  1   NT  Eb        479/480   von=98   voff=61
+BA   19   CR 1+367/480   TR  0   CH 16   Tempo 80.15
+BA   19   CR 1+419/480   TR  6   CH  6   NT  A-        2+9/160   voff=44
+BA   19   CR 1+451/480   TR  2   CH  2   NT  A-        407/480   von=75   voff=60
+BA   19   CR 1+113/120   TR  5   CH  5   NT  C           19/24   von=90   voff=34
+BA   19   CR 1+153/160   TR  4   CH  4   NT  F---        73/80   von=103   voff=10
+BA   19   CR 1+233/240   TR  3   CH  3   NT  F--          7/10   von=87   voff=1
+BA   19   CR   1+47/48   TR  1   CH  1   NT  C         199/240   von=95   voff=1
+BA   19   CR   1+47/48   TR  7   CH  7   NT  F---       91/120   von=78   voff=30
+BA   19   CR   2+19/40   TR  0   CH 16   Tempo 79.68
+BA   19   CR 2+323/480   TR  0   CH 16   Tempo 79.21
+BA   19   CR   2+71/96   TR  0   CH 16   Tempo 78.7501
+BA   19   CR 2+449/480   TR  6   CH  6   NT  C#       1+23/480   von=85   voff=78
+BA   19   CR   2+91/96   TR  5   CH  5   NT  F'          59/60   von=79   voff=65
+BA   19   CR 2+229/240   TR  5   CH  5   NT  F          1+1/32   von=93   voff=35
+BA   19   CR 2+153/160   TR  3   CH  3   NT  F-        181/240   von=101   voff=63
+BA   19   CR   2+77/80   TR  2   CH  2   NT  C#        1+1/120   von=71   voff=82
+BA   19   CR 2+463/480   TR  7   CH  7   NT  F---      1+1/240   von=77   voff=47
+BA   19   CR   2+31/32   TR  2   CH  2   NT  A-        119/120   von=75   voff=73
+BA   19   CR   2+39/40   TR  4   CH  4   NT  F--       419/480   von=111   voff=20
+BA   19   CR 2+157/160   TR  1   CH  1   NT  F           43/48   von=98   voff=40
+BA   19   CR    3+1/60   TR  9   CH  9   NT  F--         37/40   von=115   voff=1
+BA   19   CR 3+223/240   TR  5   CH  5   NT  D'         1+1/16   von=77   voff=47
+BA   19   CR 3+227/240   TR  5   CH  5   NT  D        1+13/480   von=95   voff=38
+BA   19   CR   3+77/80   TR  6   CH  6   NT  Bb-       2+1/480   von=68   voff=62
+BA   19   CR 3+463/480   TR  6   CH  6   NT  F-      2+451/480   von=71   voff=73
+BA   19   CR   3+39/40   TR  1   CH  1   NT  D         431/480   von=95   voff=28
+BA   19   CR 3+469/480   TR  3   CH  3   NT  Bb--    1+379/480   von=85   voff=44
+BA   19   CR 3+469/480   TR  7   CH  7   NT  Bb---     1+59/60   von=85   voff=1
+BA   19   CR   3+59/60   TR  4   CH  4   NT  Bb---     1+23/30   von=103   voff=1
+BA   19   CR   3+79/80   TR  9   CH  9   NT  Bb--       2+5/96   von=123   voff=51
+
+BA   20   CR         0   TR  2   CH  2   NT  Bb-       1+41/48   von=93   voff=66
+BA   20   CR     1/480   TR  2   CH  2   NT  F-      1+287/480   von=90   voff=1
+BA   20   CR     29/30   TR  5   CH  5   NT  Bb-       121/240   von=98   voff=48
+BA   20   CR     39/40   TR  5   CH  5   NT  Bb          41/80   voff=53
+BA   20   CR     79/80   TR  1   CH  1   NT  Bb-       241/480   von=103   voff=51
+BA   20   CR    1+9/20   TR  5   CH  5   NT  D          67/120   von=90   voff=59
+BA   20   CR 1+221/480   TR  5   CH  5   NT  D'          43/80   voff=62
+BA   20   CR 1+227/480   TR  1   CH  1   NT  D         241/480   von=90   voff=53
+BA   20   CR   1+15/16   TR  3   CH  3   NT  A--       223/240   von=95   voff=31
+BA   20   CR 1+113/120   TR  2   CH  2   NT  C         209/240   von=63   voff=56
+BA   20   CR   1+91/96   TR  2   CH  2   NT  F-          23/24   von=74   voff=74
+BA   20   CR 1+473/480   TR  4   CH  4   NT  F---        11/12   voff=35
+BA   20   CR   1+95/96   TR  5   CH  5   NT  F         1+25/96   von=85   voff=42
+BA   20   CR 1+119/120   TR  5   CH  5   NT  F'        1+11/40   voff=65
+BA   20   CR 1+239/240   TR  6   CH  6   NT  C       1+151/160   von=74   voff=12
+BA   20   CR   2+1/120   TR  1   CH  1   NT  F          1+5/16   von=101   voff=49
+BA   20   CR    2+1/40   TR  7   CH  7   NT  A---        61/80   von=95   voff=20
+BA   20   CR   2+19/20   TR  2   CH  2   NT  C         419/480   von=69   voff=1
+BA   20   CR 2+463/480   TR  7   CH  7   NT  A---       97/120   von=79   voff=1
+BA   20   CR   2+31/32   TR  3   CH  3   NT  F-        197/240   von=103   voff=32
+BA   20   CR   2+59/60   TR  4   CH  4   NT  A---        89/96   von=106   voff=35
+BA   20   CR  3+19/240   TR  0   CH 16   Tempo 79.21
+BA   20   CR   3+43/96   TR  5   CH  5   NT  F           23/48   von=93   voff=62
+BA   20   CR 3+109/240   TR  5   CH  5   NT  F'        239/480   von=85   voff=35
+BA   20   CR     3+1/2   TR  1   CH  1   NT  F          37/120   von=95   voff=72
+BA   20   CR   3+29/32   TR  2   CH  2   NT  D         1+1/480   von=71   voff=47
+BA   20   CR 3+147/160   TR  2   CH  2   NT  Bb-       473/480   von=61   voff=62
+BA   20   CR   3+91/96   TR  6   CH  6   NT  Bb-      1+17/480   von=77   voff=73
+BA   20   CR 3+457/480   TR  6   CH  6   NT  D         1+1/480   von=51   voff=47
+BA   20   CR 3+153/160   TR  5   CH  5   NT  G         227/480   voff=72
+BA   20   CR   3+77/80   TR  5   CH  5   NT  G'          29/60   von=87   voff=55
+BA   20   CR   3+29/30   TR  7   CH  7   NT  G---      149/160   von=87   voff=1
+BA   20   CR 3+159/160   TR  3   CH  3   NT  G-        439/480   von=79   voff=25
+BA   20   CR 3+159/160   TR  4   CH  4   NT  G---       97/120   von=109   voff=1
+
+BA   21   CR         0   TR  0   CH 16   Time signature 6/4, clocks/mtick 24, crotchets/32ndnote 8
+BA   21   CR     1/480   TR  1   CH  1   NT  G         107/240   von=103   voff=56
+BA   21   CR      5/32   TR  0   CH 16   Tempo 78.7501
+BA   21   CR   169/480   TR  0   CH 16   Tempo 78.28
+BA   21   CR   203/480   TR  5   CH  5   NT  A         253/480   von=85   voff=42
+BA   21   CR      7/16   TR  0   CH 16   Tempo 77.81
+BA   21   CR    71/160   TR  5   CH  5   NT  A'          41/80   von=93   voff=45
+BA   21   CR   221/480   TR  0   CH 16   Tempo 77.34
+BA   21   CR     23/48   TR  1   CH  1   NT  A             3/8   von=101   voff=38
+BA   21   CR   121/240   TR  0   CH 16   Tempo 76.4
+BA   21   CR     21/40   TR  0   CH 16   Tempo 75.46
+BA   21   CR   221/240   TR  5   CH  5   NT  Bb          13/24   von=75
+BA   21   CR     15/16   TR  2   CH  2   NT  Eb          89/96   von=79   voff=1
+BA   21   CR     91/96   TR  5   CH  5   NT  Bb'         23/48   von=98   voff=69
+BA   21   CR     91/96   TR  7   CH  7   NT  Eb--      149/160   von=90   voff=1
+BA   21   CR   457/480   TR  6   CH  6   NT  G         467/480   von=74   voff=58
+BA   21   CR   229/240   TR  3   CH  3   NT  Eb-       437/480   von=98   voff=1
+BA   21   CR     77/80   TR  6   CH  6   NT  Eb        151/160   von=85   voff=25
+BA   21   CR     29/30   TR  2   CH  2   NT  G         141/160   von=61   voff=39
+BA   21   CR   469/480   TR  1   CH  1   NT  Bb        197/480   von=106   voff=65
+BA   21   CR   119/120   TR  4   CH  4   NT  Eb--      371/480   voff=67
+BA   21   CR  1+11/240   TR  0   CH 16   Tempo 75
+BA   21   CR  1+21/160   TR  0   CH 16   Tempo 74.5301
+BA   21   CR    1+7/30   TR  0   CH 16   Tempo 74.0601
+BA   21   CR 1+199/480   TR  5   CH  5   NT  C''       271/480   von=95   voff=67
+BA   21   CR  1+69/160   TR  5   CH  5   NT  C'          25/48   von=82   voff=42
+BA   21   CR 1+223/480   TR  1   CH  1   NT  C'           7/20   von=98   voff=61
+BA   21   CR 1+179/240   TR  0   CH 16   Tempo 73.59
+BA   21   CR   1+14/15   TR  6   CH  6   NT  F#       2+73/160   von=68   voff=1
+BA   21   CR 1+457/480   TR  2   CH  2   NT  F#      2+209/480   von=77   voff=46
+BA   21   CR 1+229/240   TR  6   CH  6   NT  D       2+199/480   voff=24
+BA   21   CR   1+29/30   TR  5   CH  5   NT  D'        2+17/60   von=79   voff=59
+BA   21   CR 1+467/480   TR  1   CH  1   NT  D'        2+61/80   von=103   voff=21
+BA   21   CR 1+469/480   TR  3   CH  3   NT  D-      2+137/240   von=85   voff=63
+BA   21   CR 1+469/480   TR  5   CH  5   NT  D''      2+51/160   von=77   voff=60
+BA   21   CR   1+95/96   TR  4   CH  4   NT  D--     2+313/480   voff=49
+BA   21   CR   1+95/96   TR  7   CH  7   NT  D--       2+29/60   von=78   voff=30
+BA   21   CR 1+239/240   TR  2   CH  2   NT  D        2+77/160   von=61   voff=30
+BA   21   CR         2   TR  9   CH  9   NT  D-         71/240   von=127   voff=74
+BA   21   CR         2   TR 10   CH 10   NT  A-         2+3/80   von=101   voff=75
+BA   21   CR   2+1/480   TR 10   CH 10   NT  C#-        2+1/40   von=109   voff=96
+BA   21   CR   2+27/80   TR  0   CH 16   Tempo 74.0601
+BA   21   CR  2+57/160   TR  9   CH  9   NT  D-           1/15   von=66   voff=66
+BA   21   CR 2+113/240   TR  9   CH  9   NT  D-          19/96   von=74   voff=67
+BA   21   CR   2+25/48   TR  0   CH 16   Tempo 74.5301
+BA   21   CR   2+11/16   TR  0   CH 16   Tempo 75
+BA   21   CR   2+35/48   TR  9   CH  9   NT  D-           1/12   von=68   voff=70
+BA   21   CR 2+379/480   TR  0   CH 16   Tempo 75.46
+BA   21   CR 2+137/160   TR  9   CH  9   NT  D-         11/120   von=71   voff=70
+BA   21   CR     2+7/8   TR  0   CH 16   Tempo 75.93009
+BA   21   CR   2+47/48   TR  0   CH 16   Tempo 76.4
+BA   21   CR 2+119/120   TR  9   CH  9   NT  D-         13/160   von=74   voff=73
+BA   21   CR  3+29/240   TR  9   CH  9   NT  D-           3/32   voff=72
+BA   21   CR 3+119/480   TR  9   CH  9   NT  D-           1/12   von=85   voff=76
+BA   21   CR 3+143/480   TR  0   CH 16   Tempo 76.8701
+BA   21   CR 3+181/480   TR  9   CH  9   NT  D-           1/10   von=82   voff=79
+BA   21   CR   3+47/96   TR  0   CH 16   Tempo 77.34
+BA   21   CR 3+247/480   TR  9   CH  9   NT  D-         11/120   von=95   voff=79
+BA   21   CR 3+157/240   TR  9   CH  9   NT  D-           9/80   von=111   voff=84
+BA   21   CR 3+109/160   TR  0   CH 16   Tempo 77.81
+BA   21   CR 3+383/480   TR  9   CH  9   NT  D-           7/80   von=119   voff=99
+BA   21   CR   3+15/16   TR  9   CH  9   NT  D-        239/240   von=127   voff=84
+BA   21   CR   4+1/160   TR  0   CH 16   Tempo 78.28
+BA   21   CR  4+11/160   TR  0   CH 16   Tempo 78.7501
+BA   21   CR  4+53/160   TR  0   CH 16   Tempo 79.21
+BA   21   CR   4+19/48   TR  0   CH 16   Tempo 79.68
+BA   21   CR 4+403/480   TR  0   CH 16   Tempo 79.21
+BA   21   CR 4+221/240   TR  5   CH  5   NT  Bb          23/48   von=103   voff=51
+BA   21   CR 4+221/240   TR  5   CH  5   NT  Bb'       119/240   von=101   voff=70
+BA   21   CR   4+89/96   TR  0   CH 16   Tempo 78.7501
+BA   21   CR 4+461/480   TR  6   CH  6   NT  Eb        223/240   von=77   voff=39
+BA   21   CR 4+463/480   TR  2   CH  2   NT  Eb          13/16   von=68   voff=26
+BA   21   CR 4+233/240   TR  0   CH 16   Tempo 78.28
+BA   21   CR 4+467/480   TR  6   CH  6   NT  G         229/240   von=74   voff=55
+BA   21   CR 4+469/480   TR  7   CH  7   NT  Eb--      1+7/480   von=79   voff=65
+BA   21   CR   4+59/60   TR  2   CH  2   NT  G           23/32   von=69   voff=1
+BA   21   CR 4+239/240   TR  1   CH  1   NT  Bb        103/240   von=115   voff=63
+BA   21   CR    5+1/80   TR  3   CH  3   NT  Eb-         27/40   von=98   voff=35
+BA   21   CR    5+1/48   TR  4   CH  4   NT  Eb--      371/480   von=115   voff=18
+BA   21   CR  5+17/480   TR  0   CH 16   Tempo 77.34
+BA   21   CR 5+181/480   TR  0   CH 16   Tempo 76.8701
+BA   21   CR 5+191/480   TR  0   CH 16   Tempo 76.4
+BA   21   CR     5+2/5   TR  5   CH  5   NT  G           39/80   von=78   voff=1
+BA   21   CR  5+97/240   TR  5   CH  5   NT  G'         73/120   von=90   voff=41
+BA   21   CR 5+101/240   TR  0   CH 16   Tempo 75.93009
+BA   21   CR 5+227/480   TR  1   CH  1   NT  G         107/240   von=101
+BA   21   CR   5+29/60   TR  0   CH 16   Tempo 75.46
+BA   21   CR   5+11/12   TR  6   CH  6   NT  Bb-        2+1/20   von=77   voff=73
+BA   21   CR   5+37/40   TR  5   CH  5   NT  F          87/160   von=77   voff=75
+BA   21   CR   5+89/96   TR  5   CH  5   NT  F'          49/96   von=74   voff=58
+BA   21   CR   5+89/96   TR  6   CH  6   NT  D        2+19/160   von=72   voff=38
+BA   21   CR 5+153/160   TR  2   CH  2   NT  D           37/80   von=71   voff=63
+BA   21   CR 5+469/480   TR  2   CH  2   NT  Bb-         13/30   von=65   voff=81
+BA   21   CR 5+469/480   TR  7   CH  7   NT  F--       373/480   von=95   voff=52
+BA   21   CR 5+473/480   TR  3   CH  3   NT  F-          77/96   von=93   voff=41
+BA   21   CR   5+79/80   TR  1   CH  1   NT  F           59/96   von=98   voff=71
+BA   21   CR 5+119/120   TR  4   CH  4   NT  F--       119/160   von=111   voff=31
+
+BA   22   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA   22   CR    71/160   TR  5   CH  5   NT  Bb        461/480   von=98   voff=77
+BA   22   CR     43/96   TR  5   CH  5   NT  Bb'         59/60   von=95   voff=45
+BA   22   CR    59/120   TR  1   CH  1   NT  Bb         1+9/80   von=101   voff=73
+BA   22   CR   121/240   TR  2   CH  2   NT  F         371/480   von=57   voff=1
+BA   22   CR     41/80   TR  2   CH  2   NT  D             3/4   von=68   voff=66
+BA   22   CR   449/480   TR  7   CH  7   NT  F--         31/40   von=82   voff=50
+BA   22   CR   113/120   TR  3   CH  3   NT  D         113/120   von=61   voff=1
+BA   22   CR   227/240   TR  3   CH  3   NT  Bb-       397/480   von=85   voff=23
+BA   22   CR   463/480   TR  4   CH  4   NT  F---      419/480   von=103   voff=1
+BA   22   CR     29/30   TR  0   CH 16   Tempo 75
+BA   22   CR   1+1/240   TR  6   CH  6   NT  F         149/160   von=61   voff=74
+BA   22   CR  1+11/120   TR  0   CH 16   Tempo 74.5301
+BA   22   CR  1+37/240   TR  0   CH 16   Tempo 74.0601
+BA   22   CR 1+103/480   TR  0   CH 16   Tempo 73.59
+BA   22   CR 1+203/480   TR  5   CH  5   NT  D'        263/480   von=85   voff=36
+BA   22   CR   1+41/96   TR  5   CH  5   NT  D''         31/60   von=87   voff=70
+BA   22   CR 1+217/480   TR  2   CH  2   NT  Bb         61/160   von=65   voff=33
+BA   22   CR 1+233/480   TR  2   CH  2   NT  F          43/120   von=47   voff=53
+BA   22   CR    1+8/15   TR  1   CH  1   NT  D'         67/160   von=98   voff=70
+BA   22   CR 1+367/480   TR  0   CH 16   Tempo 73.1201
+BA   22   CR   1+71/80   TR  0   CH 16   Tempo 72.65008
+BA   22   CR 1+113/120   TR  5   CH  5   NT  C''      1+77/160   von=82   voff=70
+BA   22   CR 1+153/160   TR  7   CH  7   NT  F--         27/32   von=85   voff=65
+BA   22   CR   1+23/24   TR  3   CH  3   NT  F-        139/160   voff=34
+BA   22   CR 1+461/480   TR  6   CH  6   NT  Eb      1+239/240   von=85   voff=49
+BA   22   CR   1+31/32   TR  5   CH  5   NT  C'      1+107/240   von=87   voff=1
+BA   22   CR 1+157/160   TR  4   CH  4   NT  F--       421/480   von=109   voff=1
+BA   22   CR         2   TR  2   CH  2   NT  Eb       1+53/240   von=75   voff=25
+BA   22   CR   2+1/160   TR  2   CH  2   NT  A           1+1/2   von=69   voff=69
+BA   22   CR    2+1/80   TR  1   CH  1   NT  C'       1+63/160   voff=39
+BA   22   CR  2+71/480   TR  0   CH 16   Tempo 72.18
+BA   22   CR 2+127/240   TR  0   CH 16   Tempo 71.71
+BA   22   CR 2+301/480   TR  0   CH 16   Tempo 71.25
+BA   22   CR 2+179/240   TR  0   CH 16   Tempo 70.78
+BA   22   CR 2+443/480   TR  0   CH 16   Tempo 70.31009
+BA   22   CR   2+14/15   TR  6   CH  6   NT  A-         1+1/80   von=59
+BA   22   CR 2+151/160   TR  3   CH  3   NT  C           53/60   von=69   voff=1
+BA   22   CR   2+91/96   TR  3   CH  3   NT  A-        413/480   von=85   voff=1
+BA   22   CR 2+461/480   TR  9   CH  9   NT  F--       227/240   von=111   voff=54
+BA   22   CR 2+157/160   TR  7   CH  7   NT  F--       133/160   voff=32
+BA   22   CR   2+79/80   TR  4   CH  4   NT  F---        49/60   von=101   voff=1
+BA   22   CR    3+1/48   TR  0   CH 16   Tempo 69.84008
+BA   22   CR   3+7/120   TR  0   CH 16   Tempo 69.37
+BA   22   CR  3+83/480   TR  0   CH 16   Tempo 68.9
+BA   22   CR     3+1/4   TR  0   CH 16   Tempo 68.43
+BA   22   CR 3+139/480   TR  0   CH 16   Tempo 67.96
+BA   22   CR   3+23/60   TR  0   CH 16   Tempo 67.5001
+BA   22   CR     3+2/5   TR  5   CH  5   NT  Bb          31/80   von=98   voff=46
+BA   22   CR    3+5/12   TR  5   CH  5   NT  Bb'        67/160   von=90   voff=50
+BA   22   CR   3+13/30   TR  2   CH  2   NT  Eb          37/96   von=77   voff=1
+BA   22   CR  3+73/160   TR  0   CH 16   Tempo 65.62
+BA   22   CR 3+233/480   TR  1   CH  1   NT  Bb         51/160   von=101   voff=63
+BA   22   CR  3+79/160   TR  0   CH 16   Tempo 65.15008
+BA   22   CR 3+439/480   TR  6   CH  6   NT  Bb-      3+23/240   von=68   voff=87
+BA   22   CR 3+221/240   TR  9   CH  9   NT  Bb--      197/240   von=115   voff=46
+BA   22   CR   3+14/15   TR  6   CH  6   NT  F          3+5/48   von=71   voff=84
+BA   22   CR   3+14/15   TR  6   CH  6   NT  D        3+13/160   von=61   voff=62
+BA   22   CR   3+14/15   TR 10   CH 10   NT  A-        1+27/32   voff=67
+BA   22   CR 3+449/480   TR 10   CH 10   NT  C#-     1+197/240   voff=73
+BA   22   CR   3+91/96   TR  5   CH  5   NT  Bb      2+463/480   von=103   voff=97
+BA   22   CR 3+457/480   TR  2   CH  2   NT  Bb-      3+13/160   voff=96
+BA   22   CR 3+457/480   TR  7   CH  7   NT  Bb---     359/480   voff=1
+BA   22   CR 3+153/160   TR  5   CH  5   NT  Bb'     2+463/480   von=98   voff=89
+BA   22   CR 3+463/480   TR  2   CH  2   NT  F          3+1/15   von=71   voff=81
+BA   22   CR   3+29/30   TR  3   CH  3   NT  Bb-       193/240   voff=21
+BA   22   CR 3+469/480   TR  4   CH  4   NT  Bb---     373/480   von=111   voff=55
+BA   22   CR   3+47/48   TR  2   CH  2   NT  D          3+5/96   von=49   voff=65
+BA   22   CR 3+239/240   TR  1   CH  1   NT  Bb         3+1/20   von=106   voff=97
+
+BA   23   CR    17/240   TR  0   CH 16   Tempo 64.68008
+BA   23   CR       1/8   TR  0   CH 16   Tempo 64.21009
+BA   23   CR    77/480   TR  0   CH 16   Tempo 63.75
+BA   23   CR     14/15   TR  9   CH  9   NT  F--      1+23/480   von=119   voff=67
+BA   23   CR     19/20   TR  7   CH  7   NT  F---      109/160   von=74   voff=35
+BA   23   CR   153/160   TR  3   CH  3   NT  F-          25/32   von=95   voff=12
+BA   23   CR   119/120   TR  4   CH  4   NT  F---      361/480   von=103   voff=38
+BA   23   CR 1+113/120   TR  3   CH  3   NT  Bb--     1+43/240   voff=93
+BA   23   CR 1+153/160   TR  7   CH  7   NT  Bb---     1+7/160   von=78   voff=100
+BA   23   CR 1+473/480   TR  9   CH  9   NT  Bb--       1+3/40   von=123   voff=94
+BA   23   CR   1+79/80   TR  4   CH  4   NT  Bb---    1+23/240   von=115   voff=104
+
+BA   25   CR         0   TR  0   CH 16   End of track
+BA   25   CR         0   TR  1   CH 16   End of track
+BA   25   CR         0   TR  2   CH 16   End of track
+BA   25   CR         0   TR  3   CH 16   End of track
+BA   25   CR         0   TR  4   CH 16   End of track
+BA   25   CR         0   TR  5   CH 16   End of track
+BA   25   CR         0   TR  6   CH 16   End of track
+BA   25   CR         0   TR  7   CH 16   End of track
+BA   25   CR         0   TR  8   CH 16   End of track
+BA   25   CR         0   TR  9   CH 16   End of track
+BA   25   CR         0   TR 10   CH 16   End of track
+BA   25   CR         0   TR 11   CH 16   End of track
+# Successfully parsed
+# Duration = 74.9324 seconds
